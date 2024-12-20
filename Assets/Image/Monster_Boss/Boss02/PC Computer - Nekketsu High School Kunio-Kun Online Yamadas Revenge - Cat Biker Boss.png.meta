@@ -1,0 +1,2134 @@
+fileFormatVersion: 2
+guid: 34cb17b36e148ad43a9c6b99a0fc5b96
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 828
+        width: 176
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6b379a6e29644f8eba97f34d60c85
+      internalID: 336654003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 828
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaddd8c664e58364e9b69f049629c2ad
+      internalID: 51222815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 828
+        width: 169
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50d8896f4c9f7041a5827e8cd957a3a
+      internalID: -2099316831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 828
+        width: 176
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffc062ecfd18b4285d57f8ccaf99cb
+      internalID: 679056113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_5
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 828
+        width: 171
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee499ac84ac5904698d525f47ad2256
+      internalID: -477172077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_7
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 828
+        width: 172
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3b6460fd9a474eb4c04409bb72480
+      internalID: 984426462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_8
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 828
+        width: 168
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d6a5191702ac4081959a91169f4fa
+      internalID: -743865675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_9
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 828
+        width: 162
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d267b683766d4a746bc8a9bf8e12a9d2
+      internalID: 2063654664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_10
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 828
+        width: 168
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7424057b25a7743a19fdc3eb355a9b
+      internalID: -2044081605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_11
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 900
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81035d6b69b33ff44811d11a0e355d61
+      internalID: 1997773514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_12
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 828
+        width: 166
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6359beb435f3f4d8d1876b7c5c40c2
+      internalID: -1311238262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_16
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 889
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171eb7b1343abf4bbc0ecd0d4ba1a32
+      internalID: 1901829885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_24
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 884
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad256c4ba0858846b6b8c59953a1e3c
+      internalID: -1120767295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 572
+        width: 232
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192f4f65e49ab3408bd230ca887de8c
+      internalID: 70329681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 572
+        width: 230
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb2056d9272dd47b14b1d118ee6179
+      internalID: -236071583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_29
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 560
+        width: 239
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f10b332b8e49364dbebfd4e65b81be6
+      internalID: 1546873585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 569
+        width: 230
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca2be897de4d945adb863b07d544a9
+      internalID: 1971139873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_31
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 568
+        width: 241
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16239af2efdb8ec41ae2e4ec00e5ab9f
+      internalID: 807407966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_32
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 569
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef6767e261dd94fafdb0548cfad020
+      internalID: -1359602558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_33
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 569
+        width: 240
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14b91b6edee8842a258bf9645eab4c
+      internalID: -1645285999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_34
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 559
+        width: 236
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eb44d768d6fb142bc12e6fc9e4bafa
+      internalID: -1268397150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_35
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 568
+        width: 177
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9dfcd2a8455cb4ea77a8e4e8f2860f
+      internalID: -1534694013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_36
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 573
+        width: 164
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef86518ff51a040be1f65e92138519
+      internalID: -1761156859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_62
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 551
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1823154dfd9df0d41a735a2ea635ffb8
+      internalID: 787106661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_63
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 528
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a7fe2769227140ba164b5aaf58a8b
+      internalID: -429823322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_64
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 542
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7dc21bc9ba1764eaa2a93e3e4c3b59
+      internalID: 847573764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_65
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 532
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ad525fedd4a4429073e0a1ece5752
+      internalID: 134334680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_66
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 318
+        width: 246
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2c619f0755b54c908f246e6ed88d9
+      internalID: 1926154690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_67
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 318
+        width: 244
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f70c733bead78048be0d451966b893d
+      internalID: 1089896316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_68
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 523
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807464a9db51514c978dbbd17a2f06e
+      internalID: -1103709885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_69
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 528
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e9cb7588848047aaa235ca9553ab5
+      internalID: 1828416267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_70
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 523
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d69e01401e9e4db55040eda33ffb9
+      internalID: -1830088509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 317
+        width: 176
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bf4125a8bbe84bb86e8c17f0cac66
+      internalID: 452798501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_72
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 313
+        width: 165
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee97efee8e02444afc82ee90ef4aa6
+      internalID: 1668092701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_73
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 313
+        width: 170
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc833ee39c148549a3a23309bcf1043
+      internalID: 1729142098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_74
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 317
+        width: 178
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135f591b99b22b42825984bfd2a289d
+      internalID: -1345571399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_75
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 317
+        width: 176
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcfd1dacee3ffd4d8f766b309b1c5b1
+      internalID: 2087434670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_76
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 313
+        width: 185
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b6cb4fc6f5d8d4993d9af8d9f57d02
+      internalID: 1456774145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_77
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 513
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57109ce6114674428a57fae2d25a916
+      internalID: -495833492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_78
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 513
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b190fb03892e445a88fb5780979163
+      internalID: 1073825175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_79
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77299cb0b1d854b4691494063d992750
+      internalID: -1191754787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_80
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 512
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38f53c50a54644f95f11347e8407d0
+      internalID: 1239838090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_81
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 453
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad6cf946a314f4e818fca32613ccb3
+      internalID: 1194252471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_82
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 313
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec423479c6b27743a0c12c429f16611
+      internalID: 1295191677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_83
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 484
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b32dc2f010cb489ad50146639d4df
+      internalID: -217135141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_84
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 317
+        width: 174
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6b7d664c8b69449455fcf522c367f
+      internalID: 973390020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_85
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 413
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd2a14360d8b044aa06108cac90344
+      internalID: -305228892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 378
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdcfaa6a7b364b438de7bfcfffdfd90
+      internalID: 1488188200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_87
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 383
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b0c46c748a3d4f9f7f5beed7351ff
+      internalID: -835552795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_88
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 384
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d37db42161c449949b550ffddfd6a
+      internalID: -516881386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_89
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 386
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a62f12a438a24a4093a6d75ce2c72da
+      internalID: 1082732961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_90
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 368
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81544c42d3fb3614eb72594f9be4abf4
+      internalID: 93912394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_91
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 364
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de58258268c8c449dba07c0720a38b
+      internalID: 1012253873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_92
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 372
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ca658b20af5346a29e4629778336d
+      internalID: -77551596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_93
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 317
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d4b75535ff3045bd86cbcfa2c5906
+      internalID: 307158250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_94
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 57
+        width: 185
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d18f49475e4846a142a2040966fde
+      internalID: 1856441023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_95
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 258
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8f08501b2e73488fc326f1d6075f0
+      internalID: 1833223421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_96
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 254
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829ed3dd5aee9224cbf0209e6f2cdb40
+      internalID: 1182703367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_97
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 256
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8033d2ea6b5925743930605a08a5fddd
+      internalID: 1113063889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_98
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 68
+        width: 248
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47c90285dc3cd74d98c9ec7fcb4adef
+      internalID: 414049671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_99
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 69
+        width: 247
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff082c0c09fbe6f45bf5c10c258c2c3c
+      internalID: -1369539752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_100
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 104
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86180775462ecbc47a4d251991a2d06b
+      internalID: -1637974458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 61
+        width: 168
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d6e9d192e145741a4e5bb5c7a44dc6
+      internalID: -178595665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 59
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d04ef7559d9145a28eca3e3886471
+      internalID: -777535954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_103
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 61
+        width: 164
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03cbf1d2b8e57e4797bd9d5aad31fb5
+      internalID: 1117752220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_104
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab95a6ee0eab444782ea1bbc50e3b5b
+      internalID: 1002638115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_105
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc71db276fe11bd42b0fd54cd84971aa
+      internalID: -1116037914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_106
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978e15c723e91749a407e51f01404df
+      internalID: 700917459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_107
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 187
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769776babdb16504b90c568e37a21dee
+      internalID: 1758401484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_108
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080da230bf32e9d4ebd93590638780d9
+      internalID: 260731835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_109
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 188
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3757683045ced90408d5efde38669959
+      internalID: 314222840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_110
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580703c0954c2c74f983a04cab7671cc
+      internalID: -1148648895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_111
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 174
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f0053a1d3ebbb4badc8d378eed74be
+      internalID: 236354565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_112
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 57
+        width: 250
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac176cb00a1fb4ca7da1f003b172e4
+      internalID: -1834422504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_113
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 167
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9a160472d68e4eb7c80e5f895c77b
+      internalID: 1280426315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_114
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 157
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1da74c29ebd246878d6817fb1d963
+      internalID: 660773841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_115
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 57
+        width: 236
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153987257055afc4d846762725ace4f2
+      internalID: 1168657409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_116
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 26
+        width: 257
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f59cf3337924ab409550c4d033b866c
+      internalID: 104018354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_117
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 148
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398c4647d43d204e885bd10cdd520ac
+      internalID: -670014360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_118
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 133
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395da62cdc3bfc48a467406fd264c5f
+      internalID: 991027445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_119
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 57
+        width: 168
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81c5303cad53b4892d2006525d8c30
+      internalID: 1327678858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_120
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 126
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659dcb00d087e541abe1e4bc07828e7
+      internalID: -372866517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820a4d5bd9a63a42bd6e2ddefd0a9e9
+      internalID: -2102624482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacafa4524902d74f8516ec781c4a56b
+      internalID: 242961687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge -
+        Cat Biker Boss_123
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 57
+        width: 135
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84b59a60ee050747873c7d3d4646e4a
+      internalID: 1720444441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_0: 336654003
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_1: 51222815
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_10: -2044081605
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_100: -1637974458
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_101: -178595665
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_102: -777535954
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_103: 1117752220
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_104: 1002638115
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_105: -1116037914
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_106: 700917459
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_107: 1758401484
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_108: 260731835
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_109: 314222840
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_11: 1997773514
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_110: -1148648895
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_111: 236354565
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_112: -1834422504
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_113: 1280426315
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_114: 660773841
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_115: 1168657409
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_116: 104018354
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_117: -670014360
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_118: 991027445
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_119: 1327678858
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_12: -1311238262
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_120: -372866517
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_121: -2102624482
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_122: 242961687
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_123: 1720444441
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_13: 1628207002
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_14: 2146423612
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_15: 1332125851
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_16: 1901829885
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_17: 1148798826
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_18: 1159855572
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_19: 1511722937
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_2: 1720282458
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_20: -1264454908
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_21: -1301043852
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_22: -611444452
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_23: -1580266451
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_24: -1120767295
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_25: 925736304
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_26: 118779883
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_27: 70329681
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_28: -236071583
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_29: 1546873585
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_3: -2099316831
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_30: 1971139873
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_31: 807407966
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_32: -1359602558
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_33: -1645285999
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_34: -1268397150
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_35: -1534694013
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_36: -1761156859
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_37: -808968240
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_38: 592765479
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_39: 1970765899
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_4: 679056113
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_40: -1875573429
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_41: 177920155
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_42: 1830428084
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_43: -543165549
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_44: 420744220
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_45: -258535085
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_46: 1794934316
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_47: -96178781
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_48: -220300612
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_49: -2046168101
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_5: -477172077
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_50: 2015416089
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_51: -1349563671
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_52: -1783482678
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_53: 1250636965
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_54: 1902567188
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_55: -1867894183
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_56: -1253138278
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_57: -222581042
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_58: 739018681
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_59: -712128791
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_6: -203413424
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_60: 1717731462
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_61: -1733630948
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_62: 787106661
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_63: -429823322
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_64: 847573764
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_65: 134334680
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_66: 1926154690
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_67: 1089896316
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_68: -1103709885
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_69: 1828416267
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_7: 984426462
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_70: -1830088509
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_71: 452798501
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_72: 1668092701
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_73: 1729142098
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_74: -1345571399
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_75: 2087434670
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_76: 1456774145
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_77: -495833492
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_78: 1073825175
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_79: -1191754787
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_8: -743865675
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_80: 1239838090
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_81: 1194252471
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_82: 1295191677
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_83: -217135141
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_84: 973390020
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_85: -305228892
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_86: 1488188200
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_87: -835552795
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_88: -516881386
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_89: 1082732961
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_9: 2063654664
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_90: 93912394
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_91: 1012253873
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_92: -77551596
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_93: 307158250
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_94: 1856441023
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_95: 1833223421
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_96: 1182703367
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_97: 1113063889
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_98: 414049671
+      PC Computer - Nekketsu High School Kunio-Kun Online Yamadas Revenge - Cat Biker Boss_99: -1369539752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

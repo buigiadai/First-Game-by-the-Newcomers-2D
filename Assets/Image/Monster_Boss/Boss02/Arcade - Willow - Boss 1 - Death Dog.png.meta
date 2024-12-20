@@ -1,0 +1,2670 @@
+fileFormatVersion: 2
+guid: ca55f123587594a468f4cb12df1b3f61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1248
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64576a73dcdd4d4c9b516d4ce18344c
+      internalID: -541505387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1248
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6eeb4942a1858428f5f7b1461d4b5b
+      internalID: 544396475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1247
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddcfe84a456c6c438b9554252e57d1c
+      internalID: 1357120290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1247
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304f1a921e4665c42b9b78160dc5e06e
+      internalID: 645105372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1247
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43910c66141376946a6344a62e0b915d
+      internalID: -1555894599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1247
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18173ca242d3b143b10c96af8e0415a
+      internalID: -787729069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1133
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb66ccbbc6ffc74d955ff2d40db8ebe
+      internalID: -69784538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1132
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cccd7134d74344faeeed627fafd42c
+      internalID: 1399094021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1144
+        width: 135
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca145652f6299845ab2533d7dbd9d0d
+      internalID: -1046305037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1144
+        width: 135
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b47d16f09ea34aa3054aae06db7e4
+      internalID: -363619902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1014
+        width: 182
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb2fb3022d30048b1f061416912922
+      internalID: -785209183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1015
+        width: 165
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2569c41a8b455154980188d9d73a6a3e
+      internalID: 833132666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1019
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3117fd393c27145a056b2433bc8ccf
+      internalID: -647172849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 893
+        width: 219
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503c879ac65eea458cdd772e915d965
+      internalID: 1425596435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 890
+        width: 203
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc12d57ba3ba90408bc08a525988fca
+      internalID: 1799721356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 764
+        width: 182
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4880b3fbb18f482499e41af108f84978
+      internalID: -2080740558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 763
+        width: 182
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7761801c5862244a827b65b1b441f9
+      internalID: -904791716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 644
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2a74bfb3007cd4cb1c9812d2bd39b9
+      internalID: 1743480830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 642
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3972fddd6e3cb4142b907d6bf52baf2c
+      internalID: 713815804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 535
+        width: 222
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0da3bbc2a7b54280ac2c52682c346
+      internalID: 1503072969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 532
+        width: 220
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd445aab5c8d04cb5ce30273bbcf06
+      internalID: 462050307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 399
+        width: 190
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eadb1a739e534b46a8693e5ef201e60
+      internalID: 269368130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 396
+        width: 227
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb8ff05d06579747849f3b8f7482686
+      internalID: 1388020961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 396
+        width: 205
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5fd6ac02dc954faab6ef132a3fc47
+      internalID: 792790122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 320
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f66aac5e469bd144bb5e977578f70ef
+      internalID: -1079153212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813555ca003b4a549aa561e406aded75
+      internalID: 2031823965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2827d11b8a8e3f4ea70813da9235a70
+      internalID: 1187495995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84fac5fc2b41c24eb58231bfad5bbca
+      internalID: -1496118006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 322
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db854e3211864e442b37d277fe920c5d
+      internalID: 1330029053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd0eb6cb61c44e45b310f89935d8c34
+      internalID: 2044342357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e73553105b9c148b20fc961c14f2e9
+      internalID: 772759099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244dfb1d4edede740aa586b524139c93
+      internalID: 1542150412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f964e01a1f4bd40ad3d0c92943e0ff
+      internalID: -577695154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d98c49ee25b57343a2187e1c5db31c7
+      internalID: 2114101751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e8d941e5af5c429e0b0a4e37a7617
+      internalID: 878447696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 322
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403a74c318a96ef47b09cf9d06f1fce3
+      internalID: -1207558354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76941267f1f203848bdbc85c941b4100
+      internalID: -2143069003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3cea4d46f74d146bcea6df2f99b64c
+      internalID: -427920383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 322
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1d8bf655ab8942b6dd7f983f5a0d0
+      internalID: 745466076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 274
+        width: 180
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0efd3538473b040b93cc7c34e6e03b
+      internalID: 727933144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_40
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 272
+        width: 187
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c404199215ac46814a2fb370918a5
+      internalID: 675963456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 302
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92274df158c99f94fa4261036a880278
+      internalID: -1199217323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 312
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d11c7ed85d5bdc409085ee28c476894
+      internalID: 1621621304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 312
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd86c6f918af734c89633d403d9dd9b
+      internalID: 2083615808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 312
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7bee390bc3d4e4bba105ca4c31ad5c
+      internalID: 1716142537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 310
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d1c2df0543444b9d1382907c81397
+      internalID: -1854323219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 312
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a814639b95b421b46b411b34ba13d279
+      internalID: 436527806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 312
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac1cb322a166f428bd91876cb2ec89
+      internalID: -251690554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 312
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b96ecb89edee2c42843f3f6c0d4f1ad
+      internalID: -1015567081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 302
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa328726e6428f429fc2276a78aa9be
+      internalID: -1988413034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 300
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeaf4971bd1bc9488bb0179c692b79c
+      internalID: 664639754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 302
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ef329c5f78a8d47864ba117e9def9b
+      internalID: 1167426215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 300
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39e13a71272ca4fbdf4029622c4b0b
+      internalID: -2063123177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 302
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff9385a32edd5479348e67ba2db0a0
+      internalID: 54372817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435e4580e89f3e4fa4a32801b0e32ce
+      internalID: 2009084385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 302
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedcf77e6a9b4f24bab4072d2c16c15b
+      internalID: 1790882922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 302
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bba8b1fe05fb4e9c99a13b532dac0
+      internalID: 1254968008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_57
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 302
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ddb65fcaa97f8418c6dc7d1cfc413a
+      internalID: 1307637643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 300
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e814fe419668b6499b7e6df342f5236
+      internalID: -1157008110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 300
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418499e81c479404cbdc5179a85204dd
+      internalID: -981845485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 302
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56328c35df5b3124db77e3eedd2107d7
+      internalID: -1695519872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 189
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11184902372527448b3dfe34653ae3bc
+      internalID: 1031127872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 226
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eb3090ed291c84f88f89e623caaa18
+      internalID: 434572262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 206
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdd9070a3078f44daf3f279edf1259e
+      internalID: 289428677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 196
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be140c1ce0e2340b6967cf33ac06c3
+      internalID: -1834415616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 199
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b1167994e2d294f9f3c4a42cf5f272
+      internalID: -1510386922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_66
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 185
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e166abccc831449efe39978112727
+      internalID: -1034548788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 179
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabe18acaef8399488074a8f3fb3c72f
+      internalID: 1304755795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 175
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c237c80626904a8425a949853739a
+      internalID: -927482877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 202
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e56ad239922045b90eac2ce730ceb
+      internalID: -599174199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848618e8c816ac4419133f39a43cbebc
+      internalID: -1765475253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_71
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 191
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2473873eacec4bb956a4489848af8
+      internalID: 139104464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_72
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 180
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d6513e874a2946bd40e301e2ed95b
+      internalID: -654350290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_73
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 182
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb9bd3757d04441be83494c8b60c16
+      internalID: 232108203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 129
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93328ddf388cac04ba153217f58046b2
+      internalID: -1417312866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 156
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5992613d69a1d3d469d68ba891008bcb
+      internalID: 1155835888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 131
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937f0592eb1762a4187064de96433a70
+      internalID: -1398991633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 121
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ba96a8e5b0d44e9c5009bcb384b8d
+      internalID: 2017097723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 121
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118ee1935bbd914784ea2c3704ba9ac
+      internalID: 1081345200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 118
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513068ce16a6d0a49809a08b34beedb0
+      internalID: 905317542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 128
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f9016af030d443b09602a6dc9ed79
+      internalID: 551944113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_81
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 146
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f76c5ce641d134b9453fc532b1fcd8
+      internalID: 234145145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 134
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47711c67c97624db59ab2ddd6cf407
+      internalID: -1820420875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_83
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 129
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e0e6479fc15c41b6654cc7ed37c13
+      internalID: -916838242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_84
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 134
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cefeb801089bb4faf96f7be9c590d4
+      internalID: 38918313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 128
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66711c795f0a8049ab9fd53079284fe
+      internalID: 1560532910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 80
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b2595627c90a947bdd5389dc6b6b96
+      internalID: -1133824378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 84
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94119721a556f429074e0f3b481212
+      internalID: 1445044467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_88
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 97
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641bb59227a308b4ebd4061b39b8b9ff
+      internalID: 483289945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_89
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 77
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfebb97681824842ab2adbb869a86f0
+      internalID: 401183807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 75
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d56e25ad67471f49b78d05a5e73742b
+      internalID: -2929275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_91
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 76
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4981481fe72f854193bee7f64e5d1dd
+      internalID: 1294205461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_92
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 74
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9640d6b6fe49f4b9823429b2b0f597
+      internalID: 376501232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_93
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b5898ba706c84ba9c925af078ae95
+      internalID: -1169819586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_94
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 89
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5588e54fef1e52e4187b18aad9462fed
+      internalID: -511863705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 84
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6fb1ceef4398e438b1b78c52f94c62
+      internalID: 2067763577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_96
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ca4af23a2ac7448d23561b42505d9
+      internalID: 2047084952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_97
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 76
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a97b0d71f2a44fb03c2f2f6ea92d0
+      internalID: -765692505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b167517f53694b85563b777abf39c
+      internalID: 1634340973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 45
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0dc2c39844e1479f9db9e480c19b8
+      internalID: 987502468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_100
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb5aad230ecb104aade9d2ca6b8f30b
+      internalID: -877260413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_101
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 39
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83fbc78c2c3b904098c47d6b208a218
+      internalID: 1874964261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_102
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f790c76620f88f54c9ea6095857e189d
+      internalID: -169260171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_103
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 39
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72fa65c62c34a54ab306a877e8395df
+      internalID: -671701183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_104
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 41
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fa92ea3e4f104ea62b428ff01de67
+      internalID: 1450644671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_105
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 40
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeda2ca63590e5844a41a7b9fa666ab2
+      internalID: -560563378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_106
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 42
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9d58e7492ac949bdee805bfda07b3
+      internalID: -1468363771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_107
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 42
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4633412adb14b924aae82c037ec2c979
+      internalID: 529855444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_108
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a837b479d71cc48901f8339c0be9d0
+      internalID: -287664167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_109
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21d5fe410cb99438afe30446532867
+      internalID: -874398861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_110
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 9
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb836465c26d5b43836977b42226e93
+      internalID: -457741858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_111
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfaff17aebc403479db949d50a63cfe
+      internalID: 1189036306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb6db188446864ea5c04b9b6ef41b4
+      internalID: 2060241616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_113
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 8
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dada3d696195946bb3ddd2dcb226e6
+      internalID: -1096257565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Willow - Boss 1 - Death Dog_114
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 7
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beded74adcfb63845a895082b586bc8e
+      internalID: -519422008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Willow - Boss 1 - Death Dog_0: -541505387
+      Arcade - Willow - Boss 1 - Death Dog_1: 544396475
+      Arcade - Willow - Boss 1 - Death Dog_10: -785209183
+      Arcade - Willow - Boss 1 - Death Dog_100: -877260413
+      Arcade - Willow - Boss 1 - Death Dog_101: 1874964261
+      Arcade - Willow - Boss 1 - Death Dog_102: -169260171
+      Arcade - Willow - Boss 1 - Death Dog_103: -671701183
+      Arcade - Willow - Boss 1 - Death Dog_104: 1450644671
+      Arcade - Willow - Boss 1 - Death Dog_105: -560563378
+      Arcade - Willow - Boss 1 - Death Dog_106: -1468363771
+      Arcade - Willow - Boss 1 - Death Dog_107: 529855444
+      Arcade - Willow - Boss 1 - Death Dog_108: -287664167
+      Arcade - Willow - Boss 1 - Death Dog_109: -874398861
+      Arcade - Willow - Boss 1 - Death Dog_11: 833132666
+      Arcade - Willow - Boss 1 - Death Dog_110: -457741858
+      Arcade - Willow - Boss 1 - Death Dog_111: 1189036306
+      Arcade - Willow - Boss 1 - Death Dog_112: 2060241616
+      Arcade - Willow - Boss 1 - Death Dog_113: -1096257565
+      Arcade - Willow - Boss 1 - Death Dog_114: -519422008
+      Arcade - Willow - Boss 1 - Death Dog_12: -647172849
+      Arcade - Willow - Boss 1 - Death Dog_13: 1425596435
+      Arcade - Willow - Boss 1 - Death Dog_14: 1799721356
+      Arcade - Willow - Boss 1 - Death Dog_15: -2080740558
+      Arcade - Willow - Boss 1 - Death Dog_16: -904791716
+      Arcade - Willow - Boss 1 - Death Dog_17: 1743480830
+      Arcade - Willow - Boss 1 - Death Dog_18: 713815804
+      Arcade - Willow - Boss 1 - Death Dog_19: 1503072969
+      Arcade - Willow - Boss 1 - Death Dog_2: 1357120290
+      Arcade - Willow - Boss 1 - Death Dog_20: 462050307
+      Arcade - Willow - Boss 1 - Death Dog_21: 269368130
+      Arcade - Willow - Boss 1 - Death Dog_22: 1388020961
+      Arcade - Willow - Boss 1 - Death Dog_23: 792790122
+      Arcade - Willow - Boss 1 - Death Dog_24: -1079153212
+      Arcade - Willow - Boss 1 - Death Dog_25: 2031823965
+      Arcade - Willow - Boss 1 - Death Dog_26: 1187495995
+      Arcade - Willow - Boss 1 - Death Dog_27: -1496118006
+      Arcade - Willow - Boss 1 - Death Dog_28: 1330029053
+      Arcade - Willow - Boss 1 - Death Dog_29: 2044342357
+      Arcade - Willow - Boss 1 - Death Dog_3: 645105372
+      Arcade - Willow - Boss 1 - Death Dog_30: 772759099
+      Arcade - Willow - Boss 1 - Death Dog_31: 1542150412
+      Arcade - Willow - Boss 1 - Death Dog_32: -577695154
+      Arcade - Willow - Boss 1 - Death Dog_33: 2114101751
+      Arcade - Willow - Boss 1 - Death Dog_34: 878447696
+      Arcade - Willow - Boss 1 - Death Dog_35: -1207558354
+      Arcade - Willow - Boss 1 - Death Dog_36: -2143069003
+      Arcade - Willow - Boss 1 - Death Dog_37: -427920383
+      Arcade - Willow - Boss 1 - Death Dog_38: 745466076
+      Arcade - Willow - Boss 1 - Death Dog_39: 727933144
+      Arcade - Willow - Boss 1 - Death Dog_4: -1555894599
+      Arcade - Willow - Boss 1 - Death Dog_40: 675963456
+      Arcade - Willow - Boss 1 - Death Dog_41: -1199217323
+      Arcade - Willow - Boss 1 - Death Dog_42: 1621621304
+      Arcade - Willow - Boss 1 - Death Dog_43: 2083615808
+      Arcade - Willow - Boss 1 - Death Dog_44: 1716142537
+      Arcade - Willow - Boss 1 - Death Dog_45: -1854323219
+      Arcade - Willow - Boss 1 - Death Dog_46: 436527806
+      Arcade - Willow - Boss 1 - Death Dog_47: -251690554
+      Arcade - Willow - Boss 1 - Death Dog_48: -1015567081
+      Arcade - Willow - Boss 1 - Death Dog_49: -1988413034
+      Arcade - Willow - Boss 1 - Death Dog_5: -787729069
+      Arcade - Willow - Boss 1 - Death Dog_50: 664639754
+      Arcade - Willow - Boss 1 - Death Dog_51: 1167426215
+      Arcade - Willow - Boss 1 - Death Dog_52: -2063123177
+      Arcade - Willow - Boss 1 - Death Dog_53: 54372817
+      Arcade - Willow - Boss 1 - Death Dog_54: 2009084385
+      Arcade - Willow - Boss 1 - Death Dog_55: 1790882922
+      Arcade - Willow - Boss 1 - Death Dog_56: 1254968008
+      Arcade - Willow - Boss 1 - Death Dog_57: 1307637643
+      Arcade - Willow - Boss 1 - Death Dog_58: -1157008110
+      Arcade - Willow - Boss 1 - Death Dog_59: -981845485
+      Arcade - Willow - Boss 1 - Death Dog_6: -69784538
+      Arcade - Willow - Boss 1 - Death Dog_60: -1695519872
+      Arcade - Willow - Boss 1 - Death Dog_61: 1031127872
+      Arcade - Willow - Boss 1 - Death Dog_62: 434572262
+      Arcade - Willow - Boss 1 - Death Dog_63: 289428677
+      Arcade - Willow - Boss 1 - Death Dog_64: -1834415616
+      Arcade - Willow - Boss 1 - Death Dog_65: -1510386922
+      Arcade - Willow - Boss 1 - Death Dog_66: -1034548788
+      Arcade - Willow - Boss 1 - Death Dog_67: 1304755795
+      Arcade - Willow - Boss 1 - Death Dog_68: -927482877
+      Arcade - Willow - Boss 1 - Death Dog_69: -599174199
+      Arcade - Willow - Boss 1 - Death Dog_7: 1399094021
+      Arcade - Willow - Boss 1 - Death Dog_70: -1765475253
+      Arcade - Willow - Boss 1 - Death Dog_71: 139104464
+      Arcade - Willow - Boss 1 - Death Dog_72: -654350290
+      Arcade - Willow - Boss 1 - Death Dog_73: 232108203
+      Arcade - Willow - Boss 1 - Death Dog_74: -1417312866
+      Arcade - Willow - Boss 1 - Death Dog_75: 1155835888
+      Arcade - Willow - Boss 1 - Death Dog_76: -1398991633
+      Arcade - Willow - Boss 1 - Death Dog_77: 2017097723
+      Arcade - Willow - Boss 1 - Death Dog_78: 1081345200
+      Arcade - Willow - Boss 1 - Death Dog_79: 905317542
+      Arcade - Willow - Boss 1 - Death Dog_8: -1046305037
+      Arcade - Willow - Boss 1 - Death Dog_80: 551944113
+      Arcade - Willow - Boss 1 - Death Dog_81: 234145145
+      Arcade - Willow - Boss 1 - Death Dog_82: -1820420875
+      Arcade - Willow - Boss 1 - Death Dog_83: -916838242
+      Arcade - Willow - Boss 1 - Death Dog_84: 38918313
+      Arcade - Willow - Boss 1 - Death Dog_85: 1560532910
+      Arcade - Willow - Boss 1 - Death Dog_86: -1133824378
+      Arcade - Willow - Boss 1 - Death Dog_87: 1445044467
+      Arcade - Willow - Boss 1 - Death Dog_88: 483289945
+      Arcade - Willow - Boss 1 - Death Dog_89: 401183807
+      Arcade - Willow - Boss 1 - Death Dog_9: -363619902
+      Arcade - Willow - Boss 1 - Death Dog_90: -2929275
+      Arcade - Willow - Boss 1 - Death Dog_91: 1294205461
+      Arcade - Willow - Boss 1 - Death Dog_92: 376501232
+      Arcade - Willow - Boss 1 - Death Dog_93: -1169819586
+      Arcade - Willow - Boss 1 - Death Dog_94: -511863705
+      Arcade - Willow - Boss 1 - Death Dog_95: 2067763577
+      Arcade - Willow - Boss 1 - Death Dog_96: 2047084952
+      Arcade - Willow - Boss 1 - Death Dog_97: -765692505
+      Arcade - Willow - Boss 1 - Death Dog_98: 1634340973
+      Arcade - Willow - Boss 1 - Death Dog_99: 987502468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

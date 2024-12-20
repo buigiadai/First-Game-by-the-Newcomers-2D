@@ -1,0 +1,2233 @@
+fileFormatVersion: 2
+guid: 057c80c1e30967d498ff1d2365b9be41
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 591
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84628190731e5845b4939b0fa4cade0
+      internalID: 575421089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 591
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f65c7c1bcefe4c84e287339e05999
+      internalID: 1866307424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 590
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270aecf8826e9e94eb6ffa2a88612160
+      internalID: 678233980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 588
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77cb66f1a0bb646a44c37f14174dd4
+      internalID: 535847683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 591
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e46c45667400d44a64fb079e13d673
+      internalID: 264655863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 592
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cd22614ee73e54f88710e7b7db0fe6
+      internalID: -1814529911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 590
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d7e32b28c04f4fbabe15d3705a580
+      internalID: 503815616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 590
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7806020205d724d4aabffba598c2e83d
+      internalID: 177189224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 590
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b39ce186e32742be37114d4416d3e
+      internalID: 12636308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 590
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a230ce32966f214b82c19c4b7f7ca44
+      internalID: 1095040855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 545
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa8220043c1ee4896f612dfcb29d66
+      internalID: -256168701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 547
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e16e354647086408c7087cac5df4a0
+      internalID: -830963886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 547
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678c2380b749c7b4a960b783849c72d7
+      internalID: 1018837207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_13
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 562
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038855dfbb2b744299967cd035f8504
+      internalID: 429929206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 511
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3c44130182614fb0b5ac58669b289
+      internalID: 134639472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 511
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc38ba87a061a4e91096c54852e104
+      internalID: 604009080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 511
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5219cfad3c709e04eba33823245a8f95
+      internalID: 1724670966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 511
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b28672a864ba5448751c24997baafa
+      internalID: -403356727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 511
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9fbc1bc7968641aa6c2d8629ec4c3
+      internalID: -252861273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 469
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8db1e0ff171a469060136be9883e7
+      internalID: -1255046705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 463
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0af5a906e2774e826c20ca6bee2ab
+      internalID: -1655140607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 464
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1a18c932a8b14eb27ecd69e8e085e
+      internalID: -1007498645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 463
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c1d1bbc0267b4bbe4ff3f6056178a
+      internalID: -328916955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 463
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba964be0cb7d38b46bcaa04561166b6b
+      internalID: -332781093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_24
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 462
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade3f20493ae231498504b03e6a3e1ee
+      internalID: -933988992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e9f24499c6014b8c76a38995f5ab3
+      internalID: -643822780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 434
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced50b634ba82b4387f6f42f34fcd85
+      internalID: -24420736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_27
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 435
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf7af2aa5cf9b47b689cb8fb053c56
+      internalID: 425801213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 435
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f57a58c0bac94c8ebd2d14350c21f
+      internalID: -1647856430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 434
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a1e9fa993b2148a7a100c9563a3b9
+      internalID: -448826798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 435
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56777026b91fbe9428bd8cd2af9ac5cc
+      internalID: -1893400502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 434
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305c0fdf53d84842a1e781679e90cf3
+      internalID: -1133915410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 435
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c926841defd78449ab7c3ffe9446b7
+      internalID: -1786553204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_33
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 435
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a4b758333b3245a3b5e57f27d9407
+      internalID: 216334230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 430
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f8e23299443b4cac025e8b7ccff68
+      internalID: 1279039328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 401
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66d7719a02afe41b5cac313018c8fa
+      internalID: -221177326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 398
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1209b7f3e0bb9254bbdb43428264721d
+      internalID: -619553820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 389
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f192fdd1657447bae7d0c76b87814
+      internalID: -35206851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 393
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4683c9d4c9136c428a75e5692c1737c
+      internalID: -2133128986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 399
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49691c7b193ef24c96e535b182c85ac
+      internalID: -1675750640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 398
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d21408ac45a840ab3ae7a0071bf3b
+      internalID: 1749602605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 398
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48db5a98e35296478f0a9051f0a6faf
+      internalID: -2085383491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 398
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf7062be3d23347bb88797c3f6e47c
+      internalID: -1356986319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_43
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 399
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162cd3cbbd6b3b64091f9057437097f5
+      internalID: 1366595042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_44
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 399
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845344f57ddade145ac909ec760ac473
+      internalID: 1697276473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 361
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597ff546e22fc048a298d1122397027
+      internalID: -1204863756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 356
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b0c7bc4207734ab5cd8109a58096c
+      internalID: 1138432395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_47
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 355
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3b18828f6381408867862b551cca8
+      internalID: -1234362212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 355
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db1565572de48445948b1cc03fdfd94
+      internalID: 1938797372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_49
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 350
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876231f16880062469cd44bb311cca2f
+      internalID: 1692357955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_50
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 350
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9584a585f60986248a73aa91095773dd
+      internalID: 2135096274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 349
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f35b24df9c3e54b80358cbe93363b8
+      internalID: -415918462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 299
+        width: 78
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79bc8842866d2a42bbcbff475a69440
+      internalID: 1252086435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 291
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8800841453c3e1439468cab94b38b22
+      internalID: 2066016981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_54
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 294
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ab63af88e7f643a3a583e7fb5a465
+      internalID: -373804634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 289
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af68a8e14d4594d982a568686bec7c
+      internalID: -140236644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_56
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 285
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81df1f780d262084eb7f059c0d713582
+      internalID: -1330602706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cf9fea4be3c54ebefafa06f119531
+      internalID: -184929427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 273
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869427bda20e76e4f8ed2e581e89850a
+      internalID: 252370064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_59
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 255
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc5c0a47d0c634fb1fc4e2e4e72f68
+      internalID: -427480415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_60
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 255
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51fd643dc2f4442a3779fa8cb56f53
+      internalID: -720709524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae8303105c29542a82b49a60fdec78
+      internalID: -770307091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_62
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 256
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64607b083aca147ada3159e059984b
+      internalID: 1810086243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_63
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 256
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de19571b6430c4db7af0927b3b6238
+      internalID: -907835791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 203
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b326b5ff812473447bac9dc4237b2f8d
+      internalID: 409806254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_65
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 185
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633e9a23c75d1e4fb0ce7b80a3786da
+      internalID: 1971840629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_66
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 196
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f775e5eca4eea48b5f01081c8625d1
+      internalID: 720206632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_67
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 196
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d236371b265548b1c2be94569a8fa
+      internalID: 1058520948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 196
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abfc35d4c7c9a84ca7933d6defd88e9
+      internalID: -609946654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_69
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 197
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1cdeab174fa6245bc0d3caaf95189a
+      internalID: 555038236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_70
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 154
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819cc22093c3d3547a0b06051afe8b61
+      internalID: 1352317827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 154
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030809bbbfd45a9438f2b7a26f595ae7
+      internalID: 1555209834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 153
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ae86eb5e3a5240adcf8781e8e32b0
+      internalID: 1965867994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 154
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d74791ec54b4c40a66a0c31519ff8f
+      internalID: 112443412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 154
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dc61914e5753b4ca99c3d09abc1334
+      internalID: -1864518061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 154
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f6a5fc8ed3564aaf8b79c722387b0
+      internalID: 1366933164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_76
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 154
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a85e22908455408ebdd6ec9d34a45
+      internalID: 1556385756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_77
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 154
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71a934245c640140a14194dc88b8ff3
+      internalID: -262732167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 67
+        width: 183
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f21685ad6df84a9f0dbb3c0cdafea
+      internalID: 45287388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 119
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a7af031ecafb41a1edda04b75bca2
+      internalID: -838738387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_80
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 106
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5676a5203961eda4998d770419d9e1fb
+      internalID: -95130906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_81
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 108
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00dd9e34eec1b4a93ea93ce04b7e74
+      internalID: 1616715529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_82
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 108
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3de2e8c4851b47835bc87a6498eda
+      internalID: -857573423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 106
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3288bb8c86cef041a33013d12ce1c0a
+      internalID: 77937867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_84
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 109
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554712bbc8f24f244ad99ae0c63f0d52
+      internalID: -44554475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_85
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 71
+        width: 126
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b728b4d330152be4da171562c36f722e
+      internalID: 769785361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_86
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 57
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fb1ee8256d5f149b3faf244a91671d
+      internalID: 214674268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_87
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 58
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b7ec1b5a8a69244ad08fe9b08823a5
+      internalID: 1270497791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_88
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 58
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfde98a01b9f30429533fbc66a28f9b
+      internalID: 1123378909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 58
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe977066a8181944acf3aa2e07f9ad3
+      internalID: 2027219647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako
+        Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 25
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7413aa06133616644a52ff25d2cfafa8
+      internalID: -911009821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_0: 575421089
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_1: 1866307424
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_10: -256168701
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_11: -830963886
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_12: 1018837207
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_13: 429929206
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_14: 134639472
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_15: 604009080
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_16: 1724670966
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_17: -403356727
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_18: -252861273
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_19: -1255046705
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_2: 678233980
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_20: -1655140607
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_21: -1007498645
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_22: -328916955
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_23: -332781093
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_24: -933988992
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_25: -643822780
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_26: -24420736
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_27: 425801213
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_28: -1647856430
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_29: -448826798
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_3: 535847683
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_30: -1893400502
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_31: -1133915410
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_32: -1786553204
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_33: 216334230
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_34: 1279039328
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_35: -221177326
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_36: -619553820
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_37: -35206851
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_38: -2133128986
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_39: -1675750640
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_4: 264655863
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_40: 1749602605
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_41: -2085383491
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_42: -1356986319
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_43: 1366595042
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_44: 1697276473
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_45: -1204863756
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_46: 1138432395
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_47: -1234362212
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_48: 1938797372
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_49: 1692357955
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_5: -1814529911
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_50: 2135096274
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_51: -415918462
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_52: 1252086435
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_53: 2066016981
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_54: -373804634
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_55: -140236644
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_56: -1330602706
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_57: -184929427
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_58: 252370064
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_59: -427480415
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_6: 503815616
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_60: -720709524
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_61: -770307091
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_62: 1810086243
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_63: -907835791
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_64: 409806254
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_65: 1971840629
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_66: 720206632
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_67: 1058520948
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_68: -609946654
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_69: 555038236
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_7: 177189224
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_70: 1352317827
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_71: 1555209834
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_72: 1965867994
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_73: 112443412
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_74: -1864518061
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_75: 1366933164
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_76: 1556385756
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_77: -262732167
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_78: 45287388
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_79: -838738387
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_8: 12636308
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_80: -95130906
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_81: 1616715529
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_82: -857573423
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_83: 77937867
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_84: -44554475
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_85: 769785361
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_86: 214674268
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_87: 1270497791
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_88: 1123378909
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_89: 2027219647
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_9: 1095040855
+      Game Boy Advance - Crayon Shin-chan Densetsu wo Yobu Omake no Miyako Shockgaan Shin-chan Contra los munecos de Shock Gahn - Crayon Shin-Chan copy_90: -911009821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

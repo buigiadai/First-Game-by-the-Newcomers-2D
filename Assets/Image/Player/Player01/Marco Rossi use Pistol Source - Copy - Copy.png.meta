@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ba655a576da4679428f562a02e537df7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 189
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac8f3128e720a84fbbdabcabc77be67
+      internalID: 232367547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 189
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de02dc4e1729d429a326e814e0e8b3
+      internalID: -1862582371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 193
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd5ad34a8031740a9fe2f6d25155af
+      internalID: 235700483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 189
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b436c4b17fd91c4fb41408c485bd548
+      internalID: 2103881079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 189
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0f91c019b4f746b5e39c53d695857
+      internalID: 515348102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 189
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e757a829bb6f5499df514dfaba2d7d
+      internalID: 351570950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 189
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61caa78809d68f644af77f7a2fac9f9d
+      internalID: -1617578856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 189
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b5ace2015cc7408d1b74d56757d17
+      internalID: -1494966091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 193
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b862de8c250dc64f8f8b6ad56ed0680
+      internalID: 51937819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 189
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166b792e62c86a43ad911a66b93ac6d
+      internalID: 2134162526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 189
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe803ce038a9440b41fce17b179292
+      internalID: -1108858445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 189
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1690643d9696419db4e87d10b2e0e
+      internalID: -1274950845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad1c022f57a5d4d88215b7d7b17346
+      internalID: -1754673513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e9e42902a58548914cbbed8d20fdd
+      internalID: 233425167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad3349575cc307459ae660fbb00bab4
+      internalID: 162202161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 145
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9199adfb72fe3d44a8e350e57d8ae6c
+      internalID: 518618633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 102
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972dc0767e6ca034889b69f91e69ddc3
+      internalID: -1958715573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 61
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9b8c3f1c73b894fb4336d333d0652c
+      internalID: -67274055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5510d7ec7d472440baf1d4eae6b5edd
+      internalID: 36885380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 61
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29884dc7b579f574c91237ba2bec5436
+      internalID: -376784417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 61
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448594a507cdce841abea279232e90ed
+      internalID: -1109907165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c8ad0fa402fe48a3c01ff768fb1ba
+      internalID: -1832856726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db00eb92dda368745aa00608e2c4a9c1
+      internalID: 1326213555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374973b7e4201140ab062c202614dd7
+      internalID: -55595485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 17
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc5780aaf988147ade8cb248f0cdb5
+      internalID: -1267407215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 17
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc6f01b8bbaa8498aeef1070f621f8
+      internalID: 1259993521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8127430ad3e8d4e8529f60a1f5864f
+      internalID: 122949815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 17
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd38e1168f2f274a9a51bb4954fec24
+      internalID: 1465743150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 17
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b14d429183f06418c11d40c1fce3d3
+      internalID: -89000105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 17
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b693d37302198204e8969d950d5f6149
+      internalID: -2074314119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 17
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c81f4769dc6cb4ca0b3ac9081b205c
+      internalID: 361657301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 17
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7155671d67efbf64e8e25f1a0a85cdc2
+      internalID: -946566165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 17
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452f1d2917167149ab6ca7a82df08c1
+      internalID: 1851562175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 17
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7fc345a3f5fe04982c8876439bb1c1
+      internalID: -103538835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Rossi use Pistol Source - Copy - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 17
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca6ca303f834a54a9bc411ff23029aa
+      internalID: -1829516765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Marco Rossi use Pistol Source - Copy - Copy_0: 232367547
+      Marco Rossi use Pistol Source - Copy - Copy_1: -1862582371
+      Marco Rossi use Pistol Source - Copy - Copy_10: -1108858445
+      Marco Rossi use Pistol Source - Copy - Copy_11: -1274950845
+      Marco Rossi use Pistol Source - Copy - Copy_12: -1754673513
+      Marco Rossi use Pistol Source - Copy - Copy_13: 233425167
+      Marco Rossi use Pistol Source - Copy - Copy_14: 162202161
+      Marco Rossi use Pistol Source - Copy - Copy_15: 518618633
+      Marco Rossi use Pistol Source - Copy - Copy_16: -1958715573
+      Marco Rossi use Pistol Source - Copy - Copy_17: -67274055
+      Marco Rossi use Pistol Source - Copy - Copy_18: 36885380
+      Marco Rossi use Pistol Source - Copy - Copy_19: -376784417
+      Marco Rossi use Pistol Source - Copy - Copy_2: 235700483
+      Marco Rossi use Pistol Source - Copy - Copy_20: -1109907165
+      Marco Rossi use Pistol Source - Copy - Copy_21: -1832856726
+      Marco Rossi use Pistol Source - Copy - Copy_22: 1326213555
+      Marco Rossi use Pistol Source - Copy - Copy_23: -55595485
+      Marco Rossi use Pistol Source - Copy - Copy_24: -1267407215
+      Marco Rossi use Pistol Source - Copy - Copy_25: 1259993521
+      Marco Rossi use Pistol Source - Copy - Copy_26: 122949815
+      Marco Rossi use Pistol Source - Copy - Copy_27: 1465743150
+      Marco Rossi use Pistol Source - Copy - Copy_28: -89000105
+      Marco Rossi use Pistol Source - Copy - Copy_29: -2074314119
+      Marco Rossi use Pistol Source - Copy - Copy_3: 2103881079
+      Marco Rossi use Pistol Source - Copy - Copy_30: 361657301
+      Marco Rossi use Pistol Source - Copy - Copy_31: -946566165
+      Marco Rossi use Pistol Source - Copy - Copy_32: 1851562175
+      Marco Rossi use Pistol Source - Copy - Copy_33: -103538835
+      Marco Rossi use Pistol Source - Copy - Copy_34: -1829516765
+      Marco Rossi use Pistol Source - Copy - Copy_4: 515348102
+      Marco Rossi use Pistol Source - Copy - Copy_5: 351570950
+      Marco Rossi use Pistol Source - Copy - Copy_6: -1617578856
+      Marco Rossi use Pistol Source - Copy - Copy_7: -1494966091
+      Marco Rossi use Pistol Source - Copy - Copy_8: 51937819
+      Marco Rossi use Pistol Source - Copy - Copy_9: 2134162526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

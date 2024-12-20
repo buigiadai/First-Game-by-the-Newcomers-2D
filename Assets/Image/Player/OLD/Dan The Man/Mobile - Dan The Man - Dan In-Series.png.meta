@@ -1,0 +1,5486 @@
+fileFormatVersion: 2
+guid: d6a81edad468fb04e8fe816aff0daf06
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 864
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e354490cc74cf57448c4c66d1980a3fd
+      internalID: -198718833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 864
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8770ee175741e047947e1c2b2fd292f
+      internalID: 694416037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 864
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418970a591de3d3439a64ee713b55dd5
+      internalID: 304272211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 864
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ff5a2b84e02743bdf64ebd6e33fd2
+      internalID: 2103753563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 864
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb591b0375ea9479601b2ae36816d1
+      internalID: -1403422641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 864
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1337b9d49ff8246be153fcdf92cb2a
+      internalID: -1015255346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 864
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dec8feb4b955245820fd9c0f15b757
+      internalID: -581102806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 864
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369ac431d07f0934ab82468a257ea3b2
+      internalID: 97719050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 864
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69384b3e507ccfb49a04175321d32921
+      internalID: 173131884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 864
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305c7c91eec9d469555144955ba7e6
+      internalID: -1067997346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 864
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed455dfceab584492bb7e02060205f
+      internalID: 1185068590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 864
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336818f237940444a5ce9487a2bf0fb
+      internalID: 1203156522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 864
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b21a1ae40f4440993e49e557d2f5c
+      internalID: 344034217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 864
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3143fb147f6345b516d4df708331e
+      internalID: -738730556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 864
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bc253a1982e34eb8b109949928d6f
+      internalID: 584871073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 864
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824b40c96cfaa245b72b99eb8aacf2f
+      internalID: 930957856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 864
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f2994dbd2a5145a463f475a04c19e
+      internalID: -453200391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 864
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0dc75677003c458093b2558ba6ff2
+      internalID: -1893137685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 865
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20cef8743fa054393a767aa2791c01
+      internalID: -650025085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 808
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee9ff6117145aa4bac3eea25aeafad6
+      internalID: -622268227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 808
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369e1d0fe4e56a42a2ae0e40892791b
+      internalID: 1323270346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 807
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881feebe73e2fd84f9c666bdde2d4aea
+      internalID: 483132721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 808
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36359cd5363b9409fae6d5dd90b2ce
+      internalID: -1150884489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 801
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d184fcafd381d41abf55232f6849f2
+      internalID: 1044080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 809
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5796f0fb9a4fc647ae30876e8313d7b
+      internalID: 447619661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 808
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05dc77494680d4691947007fa0bee5
+      internalID: -2023563073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 807
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da774af4bdae984abdbc471e3934b90
+      internalID: 1831841889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 808
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b41aee4b4e204092e3e40e92d6bae
+      internalID: -1534048744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 808
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de983d8d49eec44083364b634579945
+      internalID: 1511806408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 808
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a674d59d7cf42ab4fb3fb759eed0f2ad
+      internalID: -795758552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 808
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83ea1037f6436468704f0f7c4ffada
+      internalID: -495695636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 808
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41b7ba1c20f314fac86faa32a9d1ea
+      internalID: -1753129829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 808
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb238075fe1e6449c2b3a074145586
+      internalID: 2036719970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_33
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 808
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396dbab9eda56b4c8de9cfa73d5c07b
+      internalID: 1998945851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 808
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220386dc38b24041b2a4ecd35d3f4b7
+      internalID: 1862575623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_35
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 808
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f964d9f8b73b04aaf7031a331dbed7
+      internalID: 1231768825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 807
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e16347b8f11394389ecb766c069bc4
+      internalID: -585891973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 744
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d457eb21547a5ce4ba1d41dce654255b
+      internalID: -1812640443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 744
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e9dc46a29e7d438fe44e92605f18f
+      internalID: 4611282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 743
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370c6969a0124a94988d106e6b562192
+      internalID: -271464890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 744
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb0340ba070d04cb134dcf279c93d5
+      internalID: -954960549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_41
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 743
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528610e6c74fc064d97111791b4c6e49
+      internalID: 1423595941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 744
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5cac2987851747a9318b15ddad29b
+      internalID: -1926292836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_43
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 744
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace71a74feaf90a4ba28925d743a37bb
+      internalID: 1363534397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 746
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36046f329460ff84e9f63c9eac5d3259
+      internalID: -94464766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 746
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18d72a0fe3df841b15e63a99080783
+      internalID: -736003591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 745
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717f78d8b7e01e4da749ac7c320aafa
+      internalID: -1299009086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_47
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 745
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a8a6d3a513f8044b05c78c7e138b83
+      internalID: -1680954031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 745
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6f835b70861840ae782dba2681961
+      internalID: 794317202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 745
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c48ccfee90651e4a9a5894733694e24
+      internalID: 245316218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 745
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741155d68da8b1644863f74a8ed08327
+      internalID: 605635823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_51
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 745
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a9730c63c4254780a7b56373a96f5
+      internalID: 1267066000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_52
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 746
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab6b5b6b49ebf246971499544658790
+      internalID: -584771616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_53
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 746
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5df86c8b8c920d418dc230ca2ceb742
+      internalID: 514741218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_54
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 746
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1010feae479c074fab0614e9b55fb92
+      internalID: 282430759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_55
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 746
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc964bf0a4495146b5de8f3622a897a
+      internalID: 227628834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 685
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e15d20fc748d444a88f655d631871b
+      internalID: 1622337673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 685
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c3e185a16f6144eb99bb07343ee96d
+      internalID: -1525444864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 685
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca225ee5de7c4e4898db7783ad192a2
+      internalID: -987554578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 686
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa462c6a977a94aa5c0682e938927c
+      internalID: 1462804169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 686
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70c63809d2dab44bf24504c3a5bf15
+      internalID: 1674172758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 685
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbf5ce52456b04bad23b3a59895343
+      internalID: 1441013482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 686
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e0f67da5259ee408440b8a8b2792b3
+      internalID: 1033800271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_63
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 686
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127cb8ca4f18644e8c04cfa39c6247d
+      internalID: -412588335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_64
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 686
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f7fc4a0d7b8b408e0046eaaa1393c
+      internalID: -226125867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 685
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cfbe1209917fc48a2412700769016f
+      internalID: 2051240460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_66
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 686
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902526f565904b43a324db749649a2f
+      internalID: -1354965562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_67
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 679
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968dce3500afde641891048e661a85e2
+      internalID: -979568394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_68
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 687
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247c23f3845e8a47a55fb0df39fee15
+      internalID: -767529027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_69
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 686
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0b60786beb9b4684ce3bff6950c2b
+      internalID: 79572719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_70
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 687
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d06e3fd2c520d4e9aee0f455cae7db
+      internalID: -1658479050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_71
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 687
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c9d3451f8bdd47ad51a77aec31c9e
+      internalID: -2046577293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_72
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 716
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291ddfbad4c5d3419f5c866b1029881
+      internalID: 573080703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 722
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b941ccfe6165429a349195d609a50
+      internalID: -1251512998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_74
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 720
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b303b22bd3515047abba4d56d9cb662
+      internalID: -1536924061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 627
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad333a4c361dfc3428a7ea68a5bd780a
+      internalID: -358819223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 628
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154644d681b9c6418a0a96e6556181f
+      internalID: 356009884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_77
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 628
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1aeba05a33d045834611a2385cf7d
+      internalID: 1642670953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 627
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f866ed7c2ef8c47aa10389c5335c06
+      internalID: 207171204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_79
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 628
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734031c60d97ac488d2c550c6c87baf
+      internalID: 1791345765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 628
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193ae44baf467a4896ad122923206e6
+      internalID: -1971613042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 620
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac98b5395e2c3408c6e79c1843aec7
+      internalID: 1591897772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 628
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5869cd9252d0d4ca50f8991f3f0a0a
+      internalID: -1097271085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 627
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edc8d447530e149a48d6af72c66973
+      internalID: -499341406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 620
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606fdce31d3793d4aaac01d4fc511fe1
+      internalID: 1758772650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_85
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 628
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb74a1b45640841b681dc71b0da315
+      internalID: -497251522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_86
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 627
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f2c1d959f0fa4db31d8c83b9ed62a
+      internalID: -822053000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_87
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 628
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b44e4db3e536409aeefc0778e3725
+      internalID: -2066320357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_88
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 628
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b23fe5f3f112a4bacd20f322cf0353
+      internalID: 1807197513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_89
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 627
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2306da80daac1f943bf7caaed280444a
+      internalID: -60123643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_90
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 627
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc31b0d1d259c754a99129763faec4ca
+      internalID: -973022289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_91
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 627
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564bc9e3bbd0e794f8cfc664d3e42229
+      internalID: 1124962692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_92
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 653
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9393a8327c42c4bb673898f81c81f2
+      internalID: -1590781486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_93
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 669
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b080cbaa2f1cf4dad500af4e7e807e
+      internalID: 1825268869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 673
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4ab30d7e822240bced94a9576f23d
+      internalID: -1591147941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_95
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 670
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439fb61ff5564e419a29b2b2c484eca
+      internalID: -2103212369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_96
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 653
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c25885e236fe543b63d451450d08ba
+      internalID: -1694988774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_97
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa607c041477064988a2031b32b33d6
+      internalID: -1667286715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_98
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 658
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c59c383df7ea74a96b26768c8dace8
+      internalID: 715816803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_99
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 660
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d749dcccf8a824642a7108ecab281675
+      internalID: 222010230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_100
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 653
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57864e10266514f47bceb45dc8ee843a
+      internalID: 741320524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_101
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 652
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b198ed9f448279a4ba36086183de74d5
+      internalID: 1672154716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_102
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 653
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650a6a803fd8674288df473cac5deee
+      internalID: 561831831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 654
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c0c7f42dd69d4790af7c38bb53b93
+      internalID: -1584173940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_104
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 648
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ccc4175eeb9a4395c10d1937385cd
+      internalID: -1917609078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 567
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff6a5e86e0b9342a9d9353b52411a9
+      internalID: -652750016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_106
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 567
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98e796509e0c745b6883bfe6711054
+      internalID: 556497278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 567
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078fb5a024934d740a4a4e0eb78a1536
+      internalID: 994020761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_108
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 567
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad000a6fe74e9643ae2dd1d5436239a
+      internalID: 1732936257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_109
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 568
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9eb193eda6beb4889438bff499c04f
+      internalID: -544210568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_110
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 568
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b08f0e610488b4b8bc69c694e0a0e8
+      internalID: -2113004787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_111
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 567
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343de69819f8ad49a63c8e6bff68f07
+      internalID: 1865381554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 568
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7dc8a48b4d76d4580f1f08e72ebd99
+      internalID: 633177283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_113
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 568
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a411fe1cc22f4343b736119e034b817
+      internalID: 643052976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 568
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b73ea819a8edbf4ba896d7f5039b5d8
+      internalID: 1390123406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_115
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 568
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b7c47d70a5a16469dfc26dc35900cc
+      internalID: 1919665881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_116
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 568
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397c607d6f8e8949b9783cdaff9c353
+      internalID: 700231441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_117
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 568
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e231627e4386843b70d234512e5dec
+      internalID: -418784301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_118
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 568
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0063bbec9e2a2304ea3750c75b55dea6
+      internalID: -1592088950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_119
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 568
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e975de5983521d42a5fe9d4ce059442
+      internalID: 1593096296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_120
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 568
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729213bc76014044083af55194f44622
+      internalID: 342180789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_121
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 567
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788929cce0e02a4fa36bb4e9cdac9a5
+      internalID: 984679191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_122
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 566
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4d587d150c01c498808cb7f709b05b
+      internalID: 1116848424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_123
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 567
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2a3fc29a268044595ae659fe1bca6e
+      internalID: -24010927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_124
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 567
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47125966d819244eb6557024315a618
+      internalID: 1039941399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 510
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7206cb0677681488e870929e0fea67
+      internalID: 1651173316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 510
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f183193ff8ab33242a769e3ba075065f
+      internalID: 891302908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_127
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 510
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86869c4964f759c4a9e148f9f718bc98
+      internalID: 1913654339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 510
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60320aeb0c5d9cc48a80600e9b48a218
+      internalID: -383843649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_129
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 510
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25afa76791aef1f4c89471fb81e05899
+      internalID: -1418468025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_130
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 510
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a366be6cc56e00949838eab8a4ccbc62
+      internalID: 466842649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_131
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 510
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ce53e61d1c2f4caf724123fb3882b
+      internalID: 197731043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_132
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 510
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119be1557f1139c43971ccd5dd6136e1
+      internalID: -869278944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_133
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 510
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb3466215cd3945b284721746fe51a
+      internalID: 620911692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_134
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 510
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c893664a117548a51e4759c484f62
+      internalID: -1377376652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_135
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 510
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c02bfff27f7f0547ac7daf234210a17
+      internalID: -742647543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_136
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 510
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b10b12966f034ba983ea0a8858d0d
+      internalID: -972034991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_137
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 509
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15508fd26461b624b949d90e385e1110
+      internalID: -2044072777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_138
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 507
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd505e417c39a94388ff43261ff8d7c
+      internalID: 749075226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_139
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 507
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c166885d147f45248b0191b531671953
+      internalID: -382744530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_140
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 507
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60dd81035bee64a9fde480e25914ac
+      internalID: -1543060684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_141
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 509
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08fdb8a063e61f438df479de2928d25
+      internalID: 243348759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_142
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 509
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbadcaa28af8b84682a110c37b8315a
+      internalID: 135687754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 509
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63fe08ddd1c1443951351175d30ac8
+      internalID: -983460101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_144
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 509
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99dde3eeae8014c9bae8ebda10aa64
+      internalID: -1052465217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_145
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 509
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212de276f1493ae4a919beabfa5f80ee
+      internalID: -1201017024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_146
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 509
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a371621ed97ff94c913a1e9501027db
+      internalID: -881739546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_147
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 504
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af43e576e1787b458261d4df26b8d26
+      internalID: 1357847149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_148
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 509
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a19af28f76ce6742bdd8380001006f5
+      internalID: 337591184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_149
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 504
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cce695af00d79f4dbbe2250a6144fc0
+      internalID: 1720708592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_150
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 454
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d6ba97cb4f94449a3ad6071d1c931
+      internalID: -774872134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_151
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 454
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110f725a992a14e4db37dc9b76c82f6b
+      internalID: 1364633938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_152
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 454
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114181e9743cba644a9a9b4dd7da7e05
+      internalID: -1590196221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 454
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae0ca9e080a8b4880b83fdfd8f3160
+      internalID: -1824557588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_154
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 454
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f224fab0613754294618e3073fcd1d
+      internalID: 320419916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_155
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 454
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2363b5c421244ebce89b9e40a507f
+      internalID: 549260994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_156
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 454
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fec2fb80d73f9489349969860bae40
+      internalID: 1661567649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_157
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 454
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02802524fa065545a21acc16dba5088
+      internalID: -282056518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_158
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 454
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cddcd7b59bb2e44b92c4e2deef69795
+      internalID: 410294132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_159
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 454
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f266a9b338f34ca7d519bc33dd308
+      internalID: 138617578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_160
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 454
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614e72f1d89adb469ffbcecb9b3cb59
+      internalID: 1469657613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_161
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 454
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6271786be667f64c8a74ee67c67b329
+      internalID: -1346610017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_162
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 451
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356e9646f6af5e4fb2b48df35e1876a
+      internalID: 365880081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_163
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 451
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb5cc2ba320f545b5fa9eef3d5c964
+      internalID: 39272738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_164
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e07a35e36e4654cb6d3b484dd37b01
+      internalID: 528293794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_165
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 400
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef465d73fb8bb44586b601011ef8bc0
+      internalID: 1379909372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_166
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 400
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373727704ace7f4982891ab919614a2
+      internalID: 2049962723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_167
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 400
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1b8341e3c48743a7dad504e00f23d
+      internalID: -727470936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_168
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 400
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08097c1dbab2eca4798297ac0c648858
+      internalID: -1828754664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_169
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 400
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d988e5f14b45c4fbe485b81d754662
+      internalID: -502077821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb832d15c7632247854227f32ba00b5
+      internalID: 1568879432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_171
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 399
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2a86951539bf49aa250a728836e5b
+      internalID: 1974503031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_172
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 396
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc64fe12c553b4087704a943928cc5
+      internalID: 229265459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_173
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 396
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d347f5047e1091e44b0d5592a4120f5b
+      internalID: 38622944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_174
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 394
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0906373163704ead3d10613158017
+      internalID: -1871351189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_175
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 399
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df00a295f4ec3e41a8841b73481a637
+      internalID: -393164279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_176
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 399
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55573fb41b8b644f9dfb2e44578d15d
+      internalID: -1279811639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_177
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 399
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb390bad4390044b3c66ea74af3445
+      internalID: -282694478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_178
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 398
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a701e65ebb750e4090491e84da4399e
+      internalID: -1598171163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_179
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 398
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2625ba9c5d6044a466b2227409af6
+      internalID: -28849756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_180
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 397
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebe8c72672025c4981e0550d5acfc39
+      internalID: -1033996925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_181
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 397
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312493ed440de064face9eea9cfd78b0
+      internalID: 1435260049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_182
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 400
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3eae4ba4e29a4b8b9049810d88525
+      internalID: 757693850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_183
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 398
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb46c5376016af439e5e181f3a3f1fd
+      internalID: 155077170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_184
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 398
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6174a0ceddc5824cbd4738a42ba4bdd
+      internalID: -1723556012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_185
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 404
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1327fa00269854386469daf8677bae
+      internalID: 1562428251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_186
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 398
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f8617e60dd39e4e99087b7996af06c
+      internalID: 13664628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_187
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 398
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fbb95b5f310f4182a42059e86c267
+      internalID: -1288504368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_188
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 377
+        width: 119
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baed22aa4a03fd4d94ec44b948d5ee8
+      internalID: 483772055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_189
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 381
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14c4f8ccaa0684a8c394653c49ba00
+      internalID: -1477352379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_190
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 381
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538c325326eb13438a18733a0f58e5c
+      internalID: 1378419459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_191
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18103d2d30ff2634ab07285b5bae6952
+      internalID: -316782807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_192
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 324
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55207c887a797574da5ecad8a3e37f92
+      internalID: 1792739213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_193
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 321
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd23b180f405954899d3adb7c327628
+      internalID: 1877950568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_194
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 321
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c911cabc73ae7341b95350ab9b0751c
+      internalID: 723465903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_195
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 319
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a084ed3240e9a448e1a3d1d6be97d5
+      internalID: -151382013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_196
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 324
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d837b10d88a604daee56071800f935
+      internalID: 1544037238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_197
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 324
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d2edd6cfc6f1e4795226f8c4e597e4
+      internalID: -135939164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_198
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 324
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270356e5f15abef4da71e6892dbb688a
+      internalID: -1537095394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_199
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 323
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7faa6b29980f2439485077b66ea8b7
+      internalID: 1326453222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_200
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 323
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e3ac659f8db5c4cadc64a2272f8e15
+      internalID: 590388551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_201
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 322
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184df8559a17ab4449bef0bca407e478
+      internalID: -603798134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_202
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde9d3ae027b50b409f0ae9d797035ec
+      internalID: -2032863604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_203
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 242
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3999810925cdb43b4b3472f9b1f6c4
+      internalID: -1978427310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_204
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 242
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f5cb8268abcb40be9bfcfe3671352
+      internalID: -1998725733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_205
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 242
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92753ab66164e53498703e5900a6b355
+      internalID: 284698582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_206
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 242
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1410b846bbba418a52f3d9b103d1b
+      internalID: 1722724681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_207
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 257
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d5144263d11b459a2409bca53cbb2
+      internalID: -321602027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_208
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 257
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c5942dcafdbe04195c1080030591a6
+      internalID: 1543588518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_209
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 257
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de7048f8b0c6045bbf6514ceb739fa
+      internalID: 1853428899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_210
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 257
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8084f01facc38c4469eff90df8128b03
+      internalID: 95953459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_211
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 257
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbeea1bda07f754499df312d5a477d1
+      internalID: 1432646021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_212
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b79c454d27944aba80629ac4aba95
+      internalID: 1654149488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_213
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb225793eab94a94d9c46e12d3a9e6f8
+      internalID: 815156428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_214
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 231
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e95528935c4741b847baa7f382278
+      internalID: 1331251191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_215
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 204
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f12eddcc44ecf439ae0f7d9b932b7c
+      internalID: -1079072309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_216
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 204
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd630d06591ef41ac996e0ac8d6e71
+      internalID: 803697113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_217
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 204
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a1f968000c9344a5cd2ab759dec77
+      internalID: 2093473047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_218
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 204
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aeaf5092c031d4da1dd724c8d1e0b2
+      internalID: -1177716423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_219
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 204
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6fc60a24f777e4f86f48920183fa00
+      internalID: -353107646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_220
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 154
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24511d37888e7a4cb2fd2a10ae91cb9
+      internalID: -1683029945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_221
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 154
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37349e68cfd697e46aa1d208ae27fc4c
+      internalID: 31206815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_222
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 101
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366aeefa8e7dfc4ebe29b99ade025ca
+      internalID: 435819533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_223
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 101
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a76ee61a9128742a4ed341bcbcddd9
+      internalID: 726507327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_224
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 101
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e005ad64686e46bca060f2485aa11
+      internalID: -1412203960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_225
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558d8ef78888ba47b95dc4a2572ea9a
+      internalID: -447150240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_226
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 101
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67ffe09fad2d84aa9dc3760976ba20
+      internalID: 490874335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_227
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6719193da068a4cb1f16b6284e3f7f
+      internalID: -775184100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_228
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 101
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2f9cf45f40fa443baf5753a37e46ea
+      internalID: -746644240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_229
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 101
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220f5546d4ed0104eaf1a9b1b26901cb
+      internalID: 816481226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_230
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 101
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12f712c37f2c643b33f4cb2a6d53a2
+      internalID: -531291964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_231
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea1a5c6fba417d4c9db229968445c81
+      internalID: 347410123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_232
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 101
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb9a2cc71b8d84399fa016e9fb6a29
+      internalID: 525381094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_233
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 101
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e612c5a5003f744bd4df5a257b4a14
+      internalID: 1718826146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_234
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824dfd049be68a144893a2d96deed68a
+      internalID: 564569075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_235
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 101
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8948cf1a878a242b5e6b261e04a9ca
+      internalID: -428745991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_236
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81c08898a0e5d4ab70c3b9d5827d11
+      internalID: 1910148013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_237
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 101
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d45027149297a44188d620b0d170666
+      internalID: 1407205470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_238
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 49
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c480af64484447aa4a5a55fd181f8
+      internalID: 1439103190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_239
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 49
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2c905e33190e428aa2959671015ff
+      internalID: -2016891393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_240
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 49
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98578015bdbb5554191ba418563b419b
+      internalID: -1874232450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_241
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f12c23db50cfb34dade6baa1cc2df47
+      internalID: -1047560830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Dan The Man - Dan In-Series_242
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1771138c3d235774680764b661682c4f
+      internalID: -1214639546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Dan The Man - Dan In-Series_0: -198718833
+      Mobile - Dan The Man - Dan In-Series_1: 694416037
+      Mobile - Dan The Man - Dan In-Series_10: 1185068590
+      Mobile - Dan The Man - Dan In-Series_100: 741320524
+      Mobile - Dan The Man - Dan In-Series_101: 1672154716
+      Mobile - Dan The Man - Dan In-Series_102: 561831831
+      Mobile - Dan The Man - Dan In-Series_103: -1584173940
+      Mobile - Dan The Man - Dan In-Series_104: -1917609078
+      Mobile - Dan The Man - Dan In-Series_105: -652750016
+      Mobile - Dan The Man - Dan In-Series_106: 556497278
+      Mobile - Dan The Man - Dan In-Series_107: 994020761
+      Mobile - Dan The Man - Dan In-Series_108: 1732936257
+      Mobile - Dan The Man - Dan In-Series_109: -544210568
+      Mobile - Dan The Man - Dan In-Series_11: 1203156522
+      Mobile - Dan The Man - Dan In-Series_110: -2113004787
+      Mobile - Dan The Man - Dan In-Series_111: 1865381554
+      Mobile - Dan The Man - Dan In-Series_112: 633177283
+      Mobile - Dan The Man - Dan In-Series_113: 643052976
+      Mobile - Dan The Man - Dan In-Series_114: 1390123406
+      Mobile - Dan The Man - Dan In-Series_115: 1919665881
+      Mobile - Dan The Man - Dan In-Series_116: 700231441
+      Mobile - Dan The Man - Dan In-Series_117: -418784301
+      Mobile - Dan The Man - Dan In-Series_118: -1592088950
+      Mobile - Dan The Man - Dan In-Series_119: 1593096296
+      Mobile - Dan The Man - Dan In-Series_12: 344034217
+      Mobile - Dan The Man - Dan In-Series_120: 342180789
+      Mobile - Dan The Man - Dan In-Series_121: 984679191
+      Mobile - Dan The Man - Dan In-Series_122: 1116848424
+      Mobile - Dan The Man - Dan In-Series_123: -24010927
+      Mobile - Dan The Man - Dan In-Series_124: 1039941399
+      Mobile - Dan The Man - Dan In-Series_125: 1651173316
+      Mobile - Dan The Man - Dan In-Series_126: 891302908
+      Mobile - Dan The Man - Dan In-Series_127: 1913654339
+      Mobile - Dan The Man - Dan In-Series_128: -383843649
+      Mobile - Dan The Man - Dan In-Series_129: -1418468025
+      Mobile - Dan The Man - Dan In-Series_13: -738730556
+      Mobile - Dan The Man - Dan In-Series_130: 466842649
+      Mobile - Dan The Man - Dan In-Series_131: 197731043
+      Mobile - Dan The Man - Dan In-Series_132: -869278944
+      Mobile - Dan The Man - Dan In-Series_133: 620911692
+      Mobile - Dan The Man - Dan In-Series_134: -1377376652
+      Mobile - Dan The Man - Dan In-Series_135: -742647543
+      Mobile - Dan The Man - Dan In-Series_136: -972034991
+      Mobile - Dan The Man - Dan In-Series_137: -2044072777
+      Mobile - Dan The Man - Dan In-Series_138: 749075226
+      Mobile - Dan The Man - Dan In-Series_139: -382744530
+      Mobile - Dan The Man - Dan In-Series_14: 584871073
+      Mobile - Dan The Man - Dan In-Series_140: -1543060684
+      Mobile - Dan The Man - Dan In-Series_141: 243348759
+      Mobile - Dan The Man - Dan In-Series_142: 135687754
+      Mobile - Dan The Man - Dan In-Series_143: -983460101
+      Mobile - Dan The Man - Dan In-Series_144: -1052465217
+      Mobile - Dan The Man - Dan In-Series_145: -1201017024
+      Mobile - Dan The Man - Dan In-Series_146: -881739546
+      Mobile - Dan The Man - Dan In-Series_147: 1357847149
+      Mobile - Dan The Man - Dan In-Series_148: 337591184
+      Mobile - Dan The Man - Dan In-Series_149: 1720708592
+      Mobile - Dan The Man - Dan In-Series_15: 930957856
+      Mobile - Dan The Man - Dan In-Series_150: -774872134
+      Mobile - Dan The Man - Dan In-Series_151: 1364633938
+      Mobile - Dan The Man - Dan In-Series_152: -1590196221
+      Mobile - Dan The Man - Dan In-Series_153: -1824557588
+      Mobile - Dan The Man - Dan In-Series_154: 320419916
+      Mobile - Dan The Man - Dan In-Series_155: 549260994
+      Mobile - Dan The Man - Dan In-Series_156: 1661567649
+      Mobile - Dan The Man - Dan In-Series_157: -282056518
+      Mobile - Dan The Man - Dan In-Series_158: 410294132
+      Mobile - Dan The Man - Dan In-Series_159: 138617578
+      Mobile - Dan The Man - Dan In-Series_16: -453200391
+      Mobile - Dan The Man - Dan In-Series_160: 1469657613
+      Mobile - Dan The Man - Dan In-Series_161: -1346610017
+      Mobile - Dan The Man - Dan In-Series_162: 365880081
+      Mobile - Dan The Man - Dan In-Series_163: 39272738
+      Mobile - Dan The Man - Dan In-Series_164: 528293794
+      Mobile - Dan The Man - Dan In-Series_165: 1379909372
+      Mobile - Dan The Man - Dan In-Series_166: 2049962723
+      Mobile - Dan The Man - Dan In-Series_167: -727470936
+      Mobile - Dan The Man - Dan In-Series_168: -1828754664
+      Mobile - Dan The Man - Dan In-Series_169: -502077821
+      Mobile - Dan The Man - Dan In-Series_17: -1893137685
+      Mobile - Dan The Man - Dan In-Series_170: 1568879432
+      Mobile - Dan The Man - Dan In-Series_171: 1974503031
+      Mobile - Dan The Man - Dan In-Series_172: 229265459
+      Mobile - Dan The Man - Dan In-Series_173: 38622944
+      Mobile - Dan The Man - Dan In-Series_174: -1871351189
+      Mobile - Dan The Man - Dan In-Series_175: -393164279
+      Mobile - Dan The Man - Dan In-Series_176: -1279811639
+      Mobile - Dan The Man - Dan In-Series_177: -282694478
+      Mobile - Dan The Man - Dan In-Series_178: -1598171163
+      Mobile - Dan The Man - Dan In-Series_179: -28849756
+      Mobile - Dan The Man - Dan In-Series_18: -650025085
+      Mobile - Dan The Man - Dan In-Series_180: -1033996925
+      Mobile - Dan The Man - Dan In-Series_181: 1435260049
+      Mobile - Dan The Man - Dan In-Series_182: 757693850
+      Mobile - Dan The Man - Dan In-Series_183: 155077170
+      Mobile - Dan The Man - Dan In-Series_184: -1723556012
+      Mobile - Dan The Man - Dan In-Series_185: 1562428251
+      Mobile - Dan The Man - Dan In-Series_186: 13664628
+      Mobile - Dan The Man - Dan In-Series_187: -1288504368
+      Mobile - Dan The Man - Dan In-Series_188: 483772055
+      Mobile - Dan The Man - Dan In-Series_189: -1477352379
+      Mobile - Dan The Man - Dan In-Series_19: -622268227
+      Mobile - Dan The Man - Dan In-Series_190: 1378419459
+      Mobile - Dan The Man - Dan In-Series_191: -316782807
+      Mobile - Dan The Man - Dan In-Series_192: 1792739213
+      Mobile - Dan The Man - Dan In-Series_193: 1877950568
+      Mobile - Dan The Man - Dan In-Series_194: 723465903
+      Mobile - Dan The Man - Dan In-Series_195: -151382013
+      Mobile - Dan The Man - Dan In-Series_196: 1544037238
+      Mobile - Dan The Man - Dan In-Series_197: -135939164
+      Mobile - Dan The Man - Dan In-Series_198: -1537095394
+      Mobile - Dan The Man - Dan In-Series_199: 1326453222
+      Mobile - Dan The Man - Dan In-Series_2: 304272211
+      Mobile - Dan The Man - Dan In-Series_20: 1323270346
+      Mobile - Dan The Man - Dan In-Series_200: 590388551
+      Mobile - Dan The Man - Dan In-Series_201: -603798134
+      Mobile - Dan The Man - Dan In-Series_202: -2032863604
+      Mobile - Dan The Man - Dan In-Series_203: -1978427310
+      Mobile - Dan The Man - Dan In-Series_204: -1998725733
+      Mobile - Dan The Man - Dan In-Series_205: 284698582
+      Mobile - Dan The Man - Dan In-Series_206: 1722724681
+      Mobile - Dan The Man - Dan In-Series_207: -321602027
+      Mobile - Dan The Man - Dan In-Series_208: 1543588518
+      Mobile - Dan The Man - Dan In-Series_209: 1853428899
+      Mobile - Dan The Man - Dan In-Series_21: 483132721
+      Mobile - Dan The Man - Dan In-Series_210: 95953459
+      Mobile - Dan The Man - Dan In-Series_211: 1432646021
+      Mobile - Dan The Man - Dan In-Series_212: 1654149488
+      Mobile - Dan The Man - Dan In-Series_213: 815156428
+      Mobile - Dan The Man - Dan In-Series_214: 1331251191
+      Mobile - Dan The Man - Dan In-Series_215: -1079072309
+      Mobile - Dan The Man - Dan In-Series_216: 803697113
+      Mobile - Dan The Man - Dan In-Series_217: 2093473047
+      Mobile - Dan The Man - Dan In-Series_218: -1177716423
+      Mobile - Dan The Man - Dan In-Series_219: -353107646
+      Mobile - Dan The Man - Dan In-Series_22: -1150884489
+      Mobile - Dan The Man - Dan In-Series_220: -1683029945
+      Mobile - Dan The Man - Dan In-Series_221: 31206815
+      Mobile - Dan The Man - Dan In-Series_222: 435819533
+      Mobile - Dan The Man - Dan In-Series_223: 726507327
+      Mobile - Dan The Man - Dan In-Series_224: -1412203960
+      Mobile - Dan The Man - Dan In-Series_225: -447150240
+      Mobile - Dan The Man - Dan In-Series_226: 490874335
+      Mobile - Dan The Man - Dan In-Series_227: -775184100
+      Mobile - Dan The Man - Dan In-Series_228: -746644240
+      Mobile - Dan The Man - Dan In-Series_229: 816481226
+      Mobile - Dan The Man - Dan In-Series_23: 1044080663
+      Mobile - Dan The Man - Dan In-Series_230: -531291964
+      Mobile - Dan The Man - Dan In-Series_231: 347410123
+      Mobile - Dan The Man - Dan In-Series_232: 525381094
+      Mobile - Dan The Man - Dan In-Series_233: 1718826146
+      Mobile - Dan The Man - Dan In-Series_234: 564569075
+      Mobile - Dan The Man - Dan In-Series_235: -428745991
+      Mobile - Dan The Man - Dan In-Series_236: 1910148013
+      Mobile - Dan The Man - Dan In-Series_237: 1407205470
+      Mobile - Dan The Man - Dan In-Series_238: 1439103190
+      Mobile - Dan The Man - Dan In-Series_239: -2016891393
+      Mobile - Dan The Man - Dan In-Series_24: 447619661
+      Mobile - Dan The Man - Dan In-Series_240: -1874232450
+      Mobile - Dan The Man - Dan In-Series_241: -1047560830
+      Mobile - Dan The Man - Dan In-Series_242: -1214639546
+      Mobile - Dan The Man - Dan In-Series_25: -2023563073
+      Mobile - Dan The Man - Dan In-Series_26: 1831841889
+      Mobile - Dan The Man - Dan In-Series_27: -1534048744
+      Mobile - Dan The Man - Dan In-Series_28: 1511806408
+      Mobile - Dan The Man - Dan In-Series_29: -795758552
+      Mobile - Dan The Man - Dan In-Series_3: 2103753563
+      Mobile - Dan The Man - Dan In-Series_30: -495695636
+      Mobile - Dan The Man - Dan In-Series_31: -1753129829
+      Mobile - Dan The Man - Dan In-Series_32: 2036719970
+      Mobile - Dan The Man - Dan In-Series_33: 1998945851
+      Mobile - Dan The Man - Dan In-Series_34: 1862575623
+      Mobile - Dan The Man - Dan In-Series_35: 1231768825
+      Mobile - Dan The Man - Dan In-Series_36: -585891973
+      Mobile - Dan The Man - Dan In-Series_37: -1812640443
+      Mobile - Dan The Man - Dan In-Series_38: 4611282
+      Mobile - Dan The Man - Dan In-Series_39: -271464890
+      Mobile - Dan The Man - Dan In-Series_4: -1403422641
+      Mobile - Dan The Man - Dan In-Series_40: -954960549
+      Mobile - Dan The Man - Dan In-Series_41: 1423595941
+      Mobile - Dan The Man - Dan In-Series_42: -1926292836
+      Mobile - Dan The Man - Dan In-Series_43: 1363534397
+      Mobile - Dan The Man - Dan In-Series_44: -94464766
+      Mobile - Dan The Man - Dan In-Series_45: -736003591
+      Mobile - Dan The Man - Dan In-Series_46: -1299009086
+      Mobile - Dan The Man - Dan In-Series_47: -1680954031
+      Mobile - Dan The Man - Dan In-Series_48: 794317202
+      Mobile - Dan The Man - Dan In-Series_49: 245316218
+      Mobile - Dan The Man - Dan In-Series_5: -1015255346
+      Mobile - Dan The Man - Dan In-Series_50: 605635823
+      Mobile - Dan The Man - Dan In-Series_51: 1267066000
+      Mobile - Dan The Man - Dan In-Series_52: -584771616
+      Mobile - Dan The Man - Dan In-Series_53: 514741218
+      Mobile - Dan The Man - Dan In-Series_54: 282430759
+      Mobile - Dan The Man - Dan In-Series_55: 227628834
+      Mobile - Dan The Man - Dan In-Series_56: 1622337673
+      Mobile - Dan The Man - Dan In-Series_57: -1525444864
+      Mobile - Dan The Man - Dan In-Series_58: -987554578
+      Mobile - Dan The Man - Dan In-Series_59: 1462804169
+      Mobile - Dan The Man - Dan In-Series_6: -581102806
+      Mobile - Dan The Man - Dan In-Series_60: 1674172758
+      Mobile - Dan The Man - Dan In-Series_61: 1441013482
+      Mobile - Dan The Man - Dan In-Series_62: 1033800271
+      Mobile - Dan The Man - Dan In-Series_63: -412588335
+      Mobile - Dan The Man - Dan In-Series_64: -226125867
+      Mobile - Dan The Man - Dan In-Series_65: 2051240460
+      Mobile - Dan The Man - Dan In-Series_66: -1354965562
+      Mobile - Dan The Man - Dan In-Series_67: -979568394
+      Mobile - Dan The Man - Dan In-Series_68: -767529027
+      Mobile - Dan The Man - Dan In-Series_69: 79572719
+      Mobile - Dan The Man - Dan In-Series_7: 97719050
+      Mobile - Dan The Man - Dan In-Series_70: -1658479050
+      Mobile - Dan The Man - Dan In-Series_71: -2046577293
+      Mobile - Dan The Man - Dan In-Series_72: 573080703
+      Mobile - Dan The Man - Dan In-Series_73: -1251512998
+      Mobile - Dan The Man - Dan In-Series_74: -1536924061
+      Mobile - Dan The Man - Dan In-Series_75: -358819223
+      Mobile - Dan The Man - Dan In-Series_76: 356009884
+      Mobile - Dan The Man - Dan In-Series_77: 1642670953
+      Mobile - Dan The Man - Dan In-Series_78: 207171204
+      Mobile - Dan The Man - Dan In-Series_79: 1791345765
+      Mobile - Dan The Man - Dan In-Series_8: 173131884
+      Mobile - Dan The Man - Dan In-Series_80: -1971613042
+      Mobile - Dan The Man - Dan In-Series_81: 1591897772
+      Mobile - Dan The Man - Dan In-Series_82: -1097271085
+      Mobile - Dan The Man - Dan In-Series_83: -499341406
+      Mobile - Dan The Man - Dan In-Series_84: 1758772650
+      Mobile - Dan The Man - Dan In-Series_85: -497251522
+      Mobile - Dan The Man - Dan In-Series_86: -822053000
+      Mobile - Dan The Man - Dan In-Series_87: -2066320357
+      Mobile - Dan The Man - Dan In-Series_88: 1807197513
+      Mobile - Dan The Man - Dan In-Series_89: -60123643
+      Mobile - Dan The Man - Dan In-Series_9: -1067997346
+      Mobile - Dan The Man - Dan In-Series_90: -973022289
+      Mobile - Dan The Man - Dan In-Series_91: 1124962692
+      Mobile - Dan The Man - Dan In-Series_92: -1590781486
+      Mobile - Dan The Man - Dan In-Series_93: 1825268869
+      Mobile - Dan The Man - Dan In-Series_94: -1591147941
+      Mobile - Dan The Man - Dan In-Series_95: -2103212369
+      Mobile - Dan The Man - Dan In-Series_96: -1694988774
+      Mobile - Dan The Man - Dan In-Series_97: -1667286715
+      Mobile - Dan The Man - Dan In-Series_98: 715816803
+      Mobile - Dan The Man - Dan In-Series_99: 222010230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

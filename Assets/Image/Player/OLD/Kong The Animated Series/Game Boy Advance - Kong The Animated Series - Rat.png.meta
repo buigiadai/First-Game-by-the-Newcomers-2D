@@ -1,0 +1,2692 @@
+fileFormatVersion: 2
+guid: 9f9dc9bd0831bd447bf6e0ae4a17822c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 715
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fd1272f68b17a4a870f4b14fc25009
+      internalID: 240023052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 715
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41cc5b3305bdb842953716184cb0e07
+      internalID: 67124613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 715
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c140cb9cc535b845b5091110e1c61b9
+      internalID: -1214123984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 715
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e245726c2ea1e4890c21f73d300a15
+      internalID: -1341427552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 715
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b4aaed0afee045ba8ad980032a864
+      internalID: 800053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 715
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb131475470a554d99795b6780450ef
+      internalID: 1145836058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 715
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15859237d25494484ba3e00e6b4985
+      internalID: 1534947126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 715
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a5cc05883ce048bea53c7dc8c0bc8
+      internalID: -1912419374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 715
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9165927b893304ebe6c0b360e290e9
+      internalID: -402354862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 715
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de8001943d88e945936f9b5e618d517
+      internalID: 499025551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 707
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9c0e846cb76349a4700c4f90b677b
+      internalID: 2105291779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 707
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8963a669792ed78458b04b9570d95361
+      internalID: 96999209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 707
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bb34ef535f68b409601adac2f1eb85
+      internalID: 1153655993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 707
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a8dc1c239f4647b533684e13216f8
+      internalID: 296346835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 707
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c9f2386e86624eb37045cb699b4c6
+      internalID: 461646306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 707
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6716caf58f2126458c914076719147e
+      internalID: 1869523408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 705
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9dc5673fe06c242b93a9ef30b053f2
+      internalID: 920294304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 707
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca346da7d0afb4c8a98dec3571baea
+      internalID: -1468077483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 707
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be62f65fb6c90b409df8649518bfa7a
+      internalID: -1752460486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 695
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e04ee45bbccc4442b751dea2c5e86b1
+      internalID: 1220003618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 695
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f0513519aff4a4286fe4f4896742d6
+      internalID: 909006581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 695
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b09481a9822d4a9361ae21b218673
+      internalID: 1188904255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 693
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db44cfc33493ec4e9d74563d22f72db
+      internalID: 1142510002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 694
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07582beade28bf44adeff42b153339b
+      internalID: 1243087417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 693
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bcc8383a03c2245a4d13ce474a2d9c
+      internalID: 301665637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 695
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1138291593ee6c54a87c7d50a059c314
+      internalID: -26554612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 695
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54972da75ad0d43aafae7bf61a0aa8
+      internalID: 182941289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 693
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf32678f2294bd48be89520181581ea
+      internalID: 227469464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 684
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5935a02ea9eee34ca4e4bee79c9d516
+      internalID: -939112500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 683
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb9b5a4a0716a4ca02a0451047c82b
+      internalID: 830784612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 683
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e868cfbf709e45a503c164111e42f
+      internalID: 1800439286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 683
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45fd4c312a3ff47b93f6b88bec8295
+      internalID: -1605488134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 683
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce322e126b916498d9a166558c8521
+      internalID: -919282138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 683
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c8586af3db6c4ab61d3fb51cae7ad
+      internalID: 2043910154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 683
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7722ec4887390418455f0b7cbd1f39
+      internalID: 1613182502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 681
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56a985d7ebc7b4bad1ec7191604848
+      internalID: 330123002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 683
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca64a50d53bc47408b4f8e67cdada4c
+      internalID: 225062232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 681
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210a48d7a635734d8b08dc1cabb971b
+      internalID: -460377819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 683
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c72f8a2ad8db3a42ade1ba0b0d2c238
+      internalID: 1644729403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 679
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc965ee2a18e7a4e88b162a7143f9f8
+      internalID: -792469091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 674
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b6f8f2575be24b85d79235aed7971
+      internalID: -1434752028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 624
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1ccef7882b10f489038ab4c6b21c79
+      internalID: -1088815090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 623
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa979b7a2db794598041f66492b63c
+      internalID: -2105981824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 669
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640066229c12be642b65e42013a69941
+      internalID: -660702940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 671
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd79c2f81e73ec4fb2be529f2356287
+      internalID: 386526338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 671
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b9fa0f6754d44494a22394a6c5870
+      internalID: -298010828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 671
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effab2a524af2a047b53ab84d281a87e
+      internalID: 405073194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 671
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e29f5957ad99499616feef672ad0c
+      internalID: -128607152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 671
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abe478b10f2c5343b74367fc27aac77
+      internalID: -802996505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 669
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a3dcc5e8b3fd49a22842616afb4b4
+      internalID: -1649096655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 636
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a98f1de4057345a3a7fbb83193898
+      internalID: -410132441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_51
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 636
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35fa557bbbd470428ff1a8a57621914
+      internalID: 814530238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_52
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 636
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba51efe56497f3f42a1aa6dd954a5bb2
+      internalID: -1769831214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_53
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 636
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f0661bbb9fb943bbbe157f37c3dcc
+      internalID: -985982318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 665
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037556277f83cd4b92fc2ba41246756
+      internalID: 808452505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 665
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab70dfdcd41fe488340e2143cb5b4c
+      internalID: -812966623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 644
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3654d16b88e03641af40ef8d9ef359f
+      internalID: 1122482898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 633
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53dcf525a0d1243b6ca8ee584acb31
+      internalID: 167291860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 561
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ddbd4cd43177641a3cb461025a3203
+      internalID: -1925613679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 624
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80251c48d530461448934778c29b19cb
+      internalID: 191247261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_60
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 633
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268499a528a9e7543af4bbc0df872388
+      internalID: 1780456706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_61
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 632
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac7ca88bd4c824b9912d51d3414405
+      internalID: 1892044537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_62
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 621
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2bd12719bb5eb46b7394036cb3072c
+      internalID: -1816032403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 623
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30ab61ade4c3043a98503479f21865
+      internalID: 1878196403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 564
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc20fd133fe8234fa75b5c8c498942d
+      internalID: 1651969227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 565
+        width: 104
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990401c4f7a38a499456417d8805853
+      internalID: 101366558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 565
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b42822ee946d264ba36eea128390848
+      internalID: -1202896506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_67
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 565
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640d5c6cb660ad40b8a558923421372
+      internalID: 288700637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_68
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 603
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29123a4e8a0009439d264dbc06d1f50
+      internalID: 546436323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_69
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 583
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e557bdbb3c4d4fa24b23b31b08e1f
+      internalID: -653454526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_70
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 565
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54efc3c2075d2449644d0c57b580b9
+      internalID: -1644271798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_71
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 569
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402f1b100fa7b54f945dbbcf4ae6871
+      internalID: 1343568356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 564
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4016939176048479ca0df64f6bdf15
+      internalID: 84067389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 565
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fbdc2643287b44eba488c1ae61ec37
+      internalID: -435943307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_74
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 588
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22184e925c1a29e408129345c415c190
+      internalID: -1603591653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 569
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aa2178469fca747af9266919b4043a
+      internalID: 1604778435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 557
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2941fbe4d4aefcf42a6961b7e54a79d7
+      internalID: 526705371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_77
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 567
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d90aaf164c17b4f949989175a9f4c0
+      internalID: 1712369462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_78
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 567
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2fbbf82b715104985b39ae06bf6585
+      internalID: -370530354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_79
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 572
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c189bfa30dfea794c93f33e514dc2d3c
+      internalID: 1469528465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 561
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464d20037cfb744e9ac3d59b52e122a
+      internalID: -1715734136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_81
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 561
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e21d424773e5540a1974cccdb08c69
+      internalID: -1184001118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 478
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40408dc1f58738f488db2b4add248934
+      internalID: -979911834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_83
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 478
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d30821e0cb9834daaa43661df5c022
+      internalID: -1849424137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 478
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c4fdcadb53d0c4dbfff423ca40b24e
+      internalID: -736099555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_85
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 478
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d472f35744d34ba358f1a3bc8d278
+      internalID: -1543476878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_86
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 478
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bd12be7355d444af6495f81d4b057
+      internalID: 554088176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010dada48c3fcf744983b43d29442474
+      internalID: 432345646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 400
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc459179dfb264491759e7b75c709c
+      internalID: 1850767318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 400
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7045123c9e0bc46840502cd6a4d83b
+      internalID: 1886166067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 399
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae750367d90f54ea2662fa40a30fd8
+      internalID: 1584954541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_91
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 400
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356f5bec8d56b147add193d5756acee
+      internalID: 2053976639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_92
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 400
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f70bea2ff74b642b43ff0359e501ff
+      internalID: 539354367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 304
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c12aa619062a2644b1c9f313f2abdfc
+      internalID: 1873717460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c97c0482ff91489c2d0350aaba2d1
+      internalID: -2142054207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_95
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 304
+        width: 99
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb2fd684ea9d84586e28eb002449e4
+      internalID: 539402722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_96
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 304
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcda04a2b0be404bb04e4d88520f107
+      internalID: 1271068394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_97
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 304
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e83375e3a6384b86b9207621d0ea5
+      internalID: 181945433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 218
+        width: 131
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f40e446a2263488a41577acc05f6b
+      internalID: 1566399297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_99
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 221
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c952a9b4098c640ad1e6a30d700f30
+      internalID: 397044998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_100
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998b4363eb71b24b971cfc3e68a176a
+      internalID: 291080768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 218
+        width: 125
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e185a4101e2505439ea96262e398698
+      internalID: -109389688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_102
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 221
+        width: 120
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99577bcc91212aa4ea7e77e475c814d4
+      internalID: 1029513293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_103
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 209
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481d0c72100add4ba09fc7bf1dafd8d
+      internalID: -2102979822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed827aa929c8a54e9712ccbed7a2fd4
+      internalID: -429241740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_105
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 89
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7821e2c2a3d2a4981c36241aaef1f6
+      internalID: -953546542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_106
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 95
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de705879df3b5ad479ce7e53fb14b389
+      internalID: -56551448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_107
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 95
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60294f352c6e46a4ab2f77eda4240a1b
+      internalID: -224101596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_108
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 96
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a7430dda9029428fbd1c5bb9715ea
+      internalID: -537687590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_109
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 95
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2732bb01c248f3c409d3c2796649dfc6
+      internalID: 946387520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_110
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 9
+        width: 109
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59d30ac7619784abbf186bf0006daf
+      internalID: 1760228947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_111
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 9
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b9c2bbe6964c4caf1256075d5a654
+      internalID: 1320711849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_112
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e6b0c64e86694491caff9cf0377e4
+      internalID: 133968090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_113
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 9
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a942a2a191ff014fa2d570b08c67389
+      internalID: -223818691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_114
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 9
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4575fd49c4fd22248bc5db7b5887f367
+      internalID: -949060587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kong The Animated Series - Rat_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 109
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea0609cdbb19d94cabd79c7cf7dc2df
+      internalID: 776766573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Kong The Animated Series - Rat_0: 240023052
+      Game Boy Advance - Kong The Animated Series - Rat_1: 67124613
+      Game Boy Advance - Kong The Animated Series - Rat_10: 2105291779
+      Game Boy Advance - Kong The Animated Series - Rat_100: 291080768
+      Game Boy Advance - Kong The Animated Series - Rat_101: -109389688
+      Game Boy Advance - Kong The Animated Series - Rat_102: 1029513293
+      Game Boy Advance - Kong The Animated Series - Rat_103: -2102979822
+      Game Boy Advance - Kong The Animated Series - Rat_104: -429241740
+      Game Boy Advance - Kong The Animated Series - Rat_105: -953546542
+      Game Boy Advance - Kong The Animated Series - Rat_106: -56551448
+      Game Boy Advance - Kong The Animated Series - Rat_107: -224101596
+      Game Boy Advance - Kong The Animated Series - Rat_108: -537687590
+      Game Boy Advance - Kong The Animated Series - Rat_109: 946387520
+      Game Boy Advance - Kong The Animated Series - Rat_11: 96999209
+      Game Boy Advance - Kong The Animated Series - Rat_110: 1760228947
+      Game Boy Advance - Kong The Animated Series - Rat_111: 1320711849
+      Game Boy Advance - Kong The Animated Series - Rat_112: 133968090
+      Game Boy Advance - Kong The Animated Series - Rat_113: -223818691
+      Game Boy Advance - Kong The Animated Series - Rat_114: -949060587
+      Game Boy Advance - Kong The Animated Series - Rat_115: 776766573
+      Game Boy Advance - Kong The Animated Series - Rat_12: 1153655993
+      Game Boy Advance - Kong The Animated Series - Rat_13: 296346835
+      Game Boy Advance - Kong The Animated Series - Rat_14: 461646306
+      Game Boy Advance - Kong The Animated Series - Rat_15: 1869523408
+      Game Boy Advance - Kong The Animated Series - Rat_16: 920294304
+      Game Boy Advance - Kong The Animated Series - Rat_17: -1468077483
+      Game Boy Advance - Kong The Animated Series - Rat_18: -1752460486
+      Game Boy Advance - Kong The Animated Series - Rat_19: 1220003618
+      Game Boy Advance - Kong The Animated Series - Rat_2: -1214123984
+      Game Boy Advance - Kong The Animated Series - Rat_20: 909006581
+      Game Boy Advance - Kong The Animated Series - Rat_21: 1188904255
+      Game Boy Advance - Kong The Animated Series - Rat_22: 1142510002
+      Game Boy Advance - Kong The Animated Series - Rat_23: 1243087417
+      Game Boy Advance - Kong The Animated Series - Rat_24: 301665637
+      Game Boy Advance - Kong The Animated Series - Rat_25: -26554612
+      Game Boy Advance - Kong The Animated Series - Rat_26: 182941289
+      Game Boy Advance - Kong The Animated Series - Rat_27: 227469464
+      Game Boy Advance - Kong The Animated Series - Rat_28: -939112500
+      Game Boy Advance - Kong The Animated Series - Rat_29: 830784612
+      Game Boy Advance - Kong The Animated Series - Rat_3: -1341427552
+      Game Boy Advance - Kong The Animated Series - Rat_30: 1800439286
+      Game Boy Advance - Kong The Animated Series - Rat_31: -1605488134
+      Game Boy Advance - Kong The Animated Series - Rat_32: -919282138
+      Game Boy Advance - Kong The Animated Series - Rat_33: 2043910154
+      Game Boy Advance - Kong The Animated Series - Rat_34: 1613182502
+      Game Boy Advance - Kong The Animated Series - Rat_35: 330123002
+      Game Boy Advance - Kong The Animated Series - Rat_36: 225062232
+      Game Boy Advance - Kong The Animated Series - Rat_37: -460377819
+      Game Boy Advance - Kong The Animated Series - Rat_38: 1644729403
+      Game Boy Advance - Kong The Animated Series - Rat_39: -792469091
+      Game Boy Advance - Kong The Animated Series - Rat_4: 800053
+      Game Boy Advance - Kong The Animated Series - Rat_40: -1434752028
+      Game Boy Advance - Kong The Animated Series - Rat_41: -1088815090
+      Game Boy Advance - Kong The Animated Series - Rat_42: -2105981824
+      Game Boy Advance - Kong The Animated Series - Rat_43: -660702940
+      Game Boy Advance - Kong The Animated Series - Rat_44: 386526338
+      Game Boy Advance - Kong The Animated Series - Rat_45: -298010828
+      Game Boy Advance - Kong The Animated Series - Rat_46: 405073194
+      Game Boy Advance - Kong The Animated Series - Rat_47: -128607152
+      Game Boy Advance - Kong The Animated Series - Rat_48: -802996505
+      Game Boy Advance - Kong The Animated Series - Rat_49: -1649096655
+      Game Boy Advance - Kong The Animated Series - Rat_5: 1145836058
+      Game Boy Advance - Kong The Animated Series - Rat_50: -410132441
+      Game Boy Advance - Kong The Animated Series - Rat_51: 814530238
+      Game Boy Advance - Kong The Animated Series - Rat_52: -1769831214
+      Game Boy Advance - Kong The Animated Series - Rat_53: -985982318
+      Game Boy Advance - Kong The Animated Series - Rat_54: 808452505
+      Game Boy Advance - Kong The Animated Series - Rat_55: -812966623
+      Game Boy Advance - Kong The Animated Series - Rat_56: 1122482898
+      Game Boy Advance - Kong The Animated Series - Rat_57: 167291860
+      Game Boy Advance - Kong The Animated Series - Rat_58: -1925613679
+      Game Boy Advance - Kong The Animated Series - Rat_59: 191247261
+      Game Boy Advance - Kong The Animated Series - Rat_6: 1534947126
+      Game Boy Advance - Kong The Animated Series - Rat_60: 1780456706
+      Game Boy Advance - Kong The Animated Series - Rat_61: 1892044537
+      Game Boy Advance - Kong The Animated Series - Rat_62: -1816032403
+      Game Boy Advance - Kong The Animated Series - Rat_63: 1878196403
+      Game Boy Advance - Kong The Animated Series - Rat_64: 1651969227
+      Game Boy Advance - Kong The Animated Series - Rat_65: 101366558
+      Game Boy Advance - Kong The Animated Series - Rat_66: -1202896506
+      Game Boy Advance - Kong The Animated Series - Rat_67: 288700637
+      Game Boy Advance - Kong The Animated Series - Rat_68: 546436323
+      Game Boy Advance - Kong The Animated Series - Rat_69: -653454526
+      Game Boy Advance - Kong The Animated Series - Rat_7: -1912419374
+      Game Boy Advance - Kong The Animated Series - Rat_70: -1644271798
+      Game Boy Advance - Kong The Animated Series - Rat_71: 1343568356
+      Game Boy Advance - Kong The Animated Series - Rat_72: 84067389
+      Game Boy Advance - Kong The Animated Series - Rat_73: -435943307
+      Game Boy Advance - Kong The Animated Series - Rat_74: -1603591653
+      Game Boy Advance - Kong The Animated Series - Rat_75: 1604778435
+      Game Boy Advance - Kong The Animated Series - Rat_76: 526705371
+      Game Boy Advance - Kong The Animated Series - Rat_77: 1712369462
+      Game Boy Advance - Kong The Animated Series - Rat_78: -370530354
+      Game Boy Advance - Kong The Animated Series - Rat_79: 1469528465
+      Game Boy Advance - Kong The Animated Series - Rat_8: -402354862
+      Game Boy Advance - Kong The Animated Series - Rat_80: -1715734136
+      Game Boy Advance - Kong The Animated Series - Rat_81: -1184001118
+      Game Boy Advance - Kong The Animated Series - Rat_82: -979911834
+      Game Boy Advance - Kong The Animated Series - Rat_83: -1849424137
+      Game Boy Advance - Kong The Animated Series - Rat_84: -736099555
+      Game Boy Advance - Kong The Animated Series - Rat_85: -1543476878
+      Game Boy Advance - Kong The Animated Series - Rat_86: 554088176
+      Game Boy Advance - Kong The Animated Series - Rat_87: 432345646
+      Game Boy Advance - Kong The Animated Series - Rat_88: 1850767318
+      Game Boy Advance - Kong The Animated Series - Rat_89: 1886166067
+      Game Boy Advance - Kong The Animated Series - Rat_9: 499025551
+      Game Boy Advance - Kong The Animated Series - Rat_90: 1584954541
+      Game Boy Advance - Kong The Animated Series - Rat_91: 2053976639
+      Game Boy Advance - Kong The Animated Series - Rat_92: 539354367
+      Game Boy Advance - Kong The Animated Series - Rat_93: 1873717460
+      Game Boy Advance - Kong The Animated Series - Rat_94: -2142054207
+      Game Boy Advance - Kong The Animated Series - Rat_95: 539402722
+      Game Boy Advance - Kong The Animated Series - Rat_96: 1271068394
+      Game Boy Advance - Kong The Animated Series - Rat_97: 181945433
+      Game Boy Advance - Kong The Animated Series - Rat_98: 1566399297
+      Game Boy Advance - Kong The Animated Series - Rat_99: 397044998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

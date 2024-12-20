@@ -1,0 +1,1704 @@
+fileFormatVersion: 2
+guid: af25087cfc2d1ba42bddb6f1eb3a48bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1044
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f9d0f8af8e624aa36f8cc0ca1a571
+      internalID: 216933044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1048
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d0d24149fb8940b8dde443f6e9754
+      internalID: 1242777643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1048
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025dcd15957da3a4c974ca978f83af87
+      internalID: -2131551715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1048
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e70e425508aaee438aa1f5b1b7c3db4
+      internalID: 105485011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1048
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6690d418ad448049b4ba17517324714
+      internalID: 455436363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1048
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d4b255175a1541bdbb9bdb3b7b6d7
+      internalID: 149390854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1046
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3693c862189f94d82f11758883ddbf
+      internalID: 816309829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1046
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554221c18b1f82d4d8f033647c6d61f6
+      internalID: -370324033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1046
+        width: 82
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbc2b8a9725334db68fbb78f57a580
+      internalID: 1869793844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1047
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8ac43a897705b419be41c78be77aa1
+      internalID: 350647292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 909
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde6d9620f3920489eb1b6f95283a91
+      internalID: -616217534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 909
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70350a5a4ebc064f985283a606a1d6f
+      internalID: -1511579314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 909
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d60282d78d5d408dcb0138d5909a3
+      internalID: 838943114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 909
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9d9e9636fd5648bed95207a0f0d51
+      internalID: 23110656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 909
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37db2054f09dbd246bfa9e05e009af66
+      internalID: -1582929800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 909
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c4eb0e368b954f8bc4847b4af6a9a
+      internalID: 1903345888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 908
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ef1e939d4d32045a31b5dbd78916dc
+      internalID: -1424469580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 908
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88098b8ae32b450458ff56e6dfc8b826
+      internalID: 1401630178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 908
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19827281efbaf640b2ee0cf60fe73cc
+      internalID: -1637316343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 908
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ef393e74061149998d827224fa8fc
+      internalID: 1633466644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 822
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78ab77bd125394584f6b5083630272
+      internalID: 2095204122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 820
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eca293329007549af84e18f9ef1c39
+      internalID: -967814318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 871
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0557d7b54a4a44cb542348f9f4ad6d
+      internalID: 417328635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6568b1a9cbc26649adce636e6534525
+      internalID: -1023159109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 865
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a81fe58a6b36841858123f3a29452f
+      internalID: -1134567429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 822
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a63fb9ec3c48247b78f7278676d3d5
+      internalID: -1590198234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 869
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1594934640eb4a99b7adaff93f749
+      internalID: 540594492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 822
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04624a8325af7c34a9c2acbeccaf15be
+      internalID: -905174660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 866
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a51f8168ab1bc84197037ded301b98c
+      internalID: -1598665261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 821
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a286a868856141b87453668548692
+      internalID: 1495493922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 827
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d7c1086bb0094ab6d953aaeae59b8
+      internalID: 248449760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 820
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6f32b1823b57458a3ae65c3e258b0
+      internalID: -8987890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 821
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b23a99f0b51c140bd9a8f0bea00b86
+      internalID: 1227371826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 678
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa60b89cb865041a856f92fb5eacc4
+      internalID: -246596503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 677
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22335ef1026e75e499b307260c732f53
+      internalID: 1046030223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 678
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3d1e1ef696a249a6958edc32bc35e
+      internalID: 558690465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 677
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48021ae712e66fc4f882f2fc8bc2c888
+      internalID: 938649278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 682
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86fb1c91e86fcd44a5e9a8fc337885a
+      internalID: -321161312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 680
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10608b6af948dbb4cbba71c9f14cd5d3
+      internalID: -1929406911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 541
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc95d0354989df48bf6fa9b6ea379a8
+      internalID: -1623482622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 540
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870d1ec5a776084da62cc77fd8129e2
+      internalID: 60983851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 541
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40848d1d2ed910c4a9cec5f7569d3540
+      internalID: 113591825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 540
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c258e24ef59e45a9ce845afaa4f01
+      internalID: 514229278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 540
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3b8b3b37f6ee744b504af37cc10307
+      internalID: -1523181350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 467
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc3ee7260b8dc441b462dff2ce6f304
+      internalID: 858301862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 484
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7fc8d4ec8f704ab61773ddb74066e
+      internalID: -284058208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 469
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f59446f637bf449aaf179c0e412d2
+      internalID: 653832719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 487
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c25ce4bc96c347b887d20de992367
+      internalID: 193752725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 483
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f08067970ef24ab68d64bb5d54f2b
+      internalID: 1165458584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 468
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195354897d6fadf4cb548c15ce35077d
+      internalID: 1026289866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 465
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf6b83b4e26a384cb0fb7ed016d93ca
+      internalID: 195672292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 457
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c3c026101b8e845ba6201a81691603
+      internalID: -1690671858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 463
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b376c7f97110a3438e95fcecefdd3d5
+      internalID: 464299304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 469
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8741a51bfb6d049a2bf024470a5d35
+      internalID: -1584663415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 456
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03986c9778a67a040bca3a58011d2664
+      internalID: 1711717615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 458
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560d45c7b36df84a8d88e2f1657810c
+      internalID: -861712659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 456
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317132a3693ea1b488ddb406e1be73af
+      internalID: -1756851777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 302
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c3fe878f0932e40a24220a2fa7c53f
+      internalID: -1512789598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 297
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72650f19a033dd54f93597a1d1306d5a
+      internalID: 1205871911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 306
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdbc8e604ff12349aa262c20d83bbd9
+      internalID: 209781682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b1d57cfbc2a74bb8996fcfa274722
+      internalID: 96615626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 301
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1570d1677d6543b9cba329728f998
+      internalID: -125028817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 303
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99138c392cfede418cbbe7e5d2426ef
+      internalID: 415432200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 153
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ceb20ee137e0a41af85ff8e9e5df1d
+      internalID: -2079141188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9b4345d57c0b242a80b73ccd5b5fa0
+      internalID: -1303730919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 164
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e57b7ffc1a4fe4dab912c2869852a7
+      internalID: 1320096159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 173
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01f5b787fa6ef4c894789dc12e0281
+      internalID: 1645548269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 153
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba54b4c41c614c74ab3d3390d310adf4
+      internalID: -1500987007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 151
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dd8ca1a9fb1654fa885f1fae7ee5be
+      internalID: 1791173624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 173
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d467bf78175cb42bb382875d204030
+      internalID: -707842584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Stone Shooter - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 178
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ccfada4c1736c49abc58abb3eea2fb
+      internalID: -911910231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_0: 216933044
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_1: 1242777643
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_10: -616217534
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_11: -1511579314
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_12: 838943114
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_13: 23110656
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_14: -1582929800
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_15: 1903345888
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_16: -1424469580
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_17: 1401630178
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_18: -1637316343
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_19: 1633466644
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_2: -2131551715
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_20: 2095204122
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_21: -967814318
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_22: 417328635
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_23: -1023159109
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_24: -1134567429
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_25: -1590198234
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_26: 540594492
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_27: -905174660
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_28: -1598665261
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_29: 1495493922
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_3: 105485011
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_30: 248449760
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_31: -8987890
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_32: 1227371826
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_33: -246596503
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_34: 1046030223
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_35: 558690465
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_36: 938649278
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_37: -321161312
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_38: -1929406911
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_39: 1410484927
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_4: 455436363
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_40: -1623482622
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_41: 60983851
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_42: 113591825
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_43: 514229278
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_44: -1523181350
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_45: 858301862
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_46: -284058208
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_47: 653832719
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_48: 193752725
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_49: 1165458584
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_5: 149390854
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_50: 1026289866
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_51: 195672292
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_52: -1690671858
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_53: 464299304
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_54: -1584663415
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_55: 1711717615
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_56: -861712659
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_57: -1756851777
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_58: -1512789598
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_59: 1205871911
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_6: 816309829
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_60: 209781682
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_61: 96615626
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_62: -125028817
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_63: 415432200
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_64: -2079141188
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_65: -1303730919
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_66: 1320096159
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_67: 1645548269
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_68: -1500987007
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_69: 1791173624
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_7: -370324033
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_70: -707842584
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_71: -911910231
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_72: -681038659
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_8: 1869793844
+      PC Computer - Ragnarok Online - Stone Shooter - Copy_9: 350647292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

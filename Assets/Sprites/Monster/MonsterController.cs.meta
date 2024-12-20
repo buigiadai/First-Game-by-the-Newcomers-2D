@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5efe556654ceb1f43a91bfb452f8576b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerS: {instanceID: 0}
+  - playerHealth: {instanceID: 0}
+  - popUpDamegaPrefab: {fileID: 3890343362428162250, guid: 3dc25f78a6751f240b8cfd8bf13dc1aa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

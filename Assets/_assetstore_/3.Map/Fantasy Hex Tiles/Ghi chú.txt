@@ -1,0 +1,3 @@
+Người viết: Bùi Gia Đại
++ Hành động: Xoá các file không liên quan. Giữ  lại PNG Sprite
++ Nội dung: Tài nguyên này nằm trong trong _assetstore_ đã được đơn giản hoá để giảm gánh nặng dữ lieu. Chỉ còn các Sprite được lưu trữ lại cho việc sử dụng
